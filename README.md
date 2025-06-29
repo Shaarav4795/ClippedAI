@@ -128,12 +128,12 @@ The script uses Whisper models via `clipsai`. Choose based on your hardware:
 
 | Model | Size | Speed | Accuracy | RAM Usage | Best For |
 |-------|------|-------|----------|-----------|----------|
-| `tiny` | 39MB | ⚡⚡⚡⚡⚡ | ⭐⭐ | 1GB | Quick testing, basic accuracy |
-| `base` | 74MB | ⚡⚡⚡⚡ | ⭐⭐⭐ | 1GB | Good balance, most users |
-| `small` | 244MB | ⚡⚡⚡ | ⭐⭐⭐⭐ | 2GB | Better accuracy, recommended |
-| `medium` | 769MB | ⚡⚡ | ⭐⭐⭐⭐⭐ | 4GB | High accuracy, good hardware |
-| `large-v1` | 1550MB | ⚡ | ⭐⭐⭐⭐⭐ | 8GB | Best accuracy, powerful hardware |
-| `large-v2` | 1550MB | ⚡ | ⭐⭐⭐⭐⭐ | 8GB | Latest model, best results |
+| `tiny` | Very Small | ⚡⚡⚡⚡⚡ | ⭐⭐ | 1GB | Quick testing, basic accuracy |
+| `base` | Small | ⚡⚡⚡⚡ | ⭐⭐⭐ | 1GB | Good balance, most users |
+| `small` | Medium | ⚡⚡⚡ | ⭐⭐⭐⭐ | 2GB | Better accuracy, recommended |
+| `medium` | Large | ⚡⚡ | ⭐⭐⭐⭐⭐ | 4GB | High accuracy, good hardware |
+| `large-v1` | Very Large | ⚡ | ⭐⭐⭐⭐⭐ | 8GB | Best accuracy, powerful hardware |
+| `large-v2` | Very Large | ⚡ | ⭐⭐⭐⭐⭐ | 8GB | Latest model, best results |
 
 ### Hardware Recommendations
 
