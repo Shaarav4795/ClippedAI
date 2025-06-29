@@ -161,6 +161,7 @@ ClippedAI/
 ├── main.py                 # Main application script
 ├── requirements.txt        # Python dependencies
 ├── README.md              # This file
+├── LICENSE                # MIT License with commercial restrictions
 ├── input/                 # Place your videos here
 │   ├── video1.mp4
 │   ├── video2.mp4
@@ -170,7 +171,26 @@ ClippedAI/
 │   ├── clip2.mp4
 │   └── ...
 └── env/                   # Virtual environment (created during setup)
+
+# Website files (for GitHub Pages - can be deleted for local use)
+├── index.html             # Website homepage
+├── styles.css             # Website styling
+├── script.js              # Website interactivity
+├── sitemap.xml            # SEO sitemap
+├── robots.txt             # Search engine instructions
+└── .github/workflows/     # GitHub Pages deployment
 ```
+
+## 🗑️ Clean Installation (Optional)
+
+If you only want to use ClippedAI locally and don't need the website, you can delete these files:
+```bash
+# Delete website-related files
+rm index.html styles.css script.js sitemap.xml robots.txt
+rm -rf .github/
+```
+
+**Note**: These files are only needed for the GitHub Pages website at https://shaarav4795.github.io/ClippedAI/. The core functionality works perfectly without them.
 
 ## 🎬 Usage
 
