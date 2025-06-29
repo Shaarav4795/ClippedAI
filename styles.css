@@ -518,64 +518,6 @@ section {
     text-decoration: underline;
 }
 
-/* Demo Section */
-.demo {
-    background: var(--bg-secondary);
-}
-
-.demo-content {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 4rem;
-    align-items: center;
-    max-width: 1000px;
-    margin: 0 auto;
-}
-
-.demo-video {
-    display: flex;
-    justify-content: center;
-}
-
-.video-placeholder {
-    background: white;
-    border-radius: 16px;
-    padding: 4rem 2rem;
-    text-align: center;
-    box-shadow: var(--shadow-lg);
-    border: 1px solid var(--border-color);
-    width: 100%;
-    max-width: 500px;
-}
-
-.video-placeholder i {
-    font-size: 4rem;
-    color: var(--primary-color);
-    margin-bottom: 1rem;
-}
-
-.video-placeholder p {
-    color: var(--text-secondary);
-    font-size: 1.1rem;
-}
-
-.demo-features h3 {
-    font-size: 1.5rem;
-    font-weight: 600;
-    margin-bottom: 1.5rem;
-    color: var(--text-primary);
-}
-
-.demo-features ul {
-    list-style: none;
-}
-
-.demo-features li {
-    padding: 0.75rem 0;
-    color: var(--text-secondary);
-    font-size: 1.1rem;
-}
-
 /* Footer */
 .footer {
     background: var(--bg-dark);
@@ -712,11 +654,6 @@ section {
         flex-direction: column;
         text-align: center;
         gap: 1rem;
-    }
-    
-    .demo-content {
-        grid-template-columns: 1fr;
-        gap: 2rem;
     }
     
     .api-cards {
@@ -963,9 +900,12 @@ html {
 
 .testimonials-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
     gap: 2rem;
     margin-top: 3rem;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .testimonial-card {
@@ -1027,6 +967,17 @@ html {
     font-weight: 600;
     color: var(--text-primary);
     margin-bottom: 0.25rem;
+}
+
+.author-info h4 a {
+    color: var(--primary-color);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.author-info h4 a:hover {
+    color: var(--accent-color);
+    text-decoration: underline;
 }
 
 .author-info span {
