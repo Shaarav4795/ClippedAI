@@ -320,3 +320,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ **Star this repository** if you find it helpful!
 
 🔗 **Share with creators** who want to automate their YouTube Shorts workflow!
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Shaarav4795/ClippedAI&type=Date)](https://www.star-history.com/#Shaarav4795/ClippedAI&Date)
