@@ -146,7 +146,7 @@ def create_animated_subtitles(video_path, transcription, clip, output_path):
     print("NOTE: Ensure 'Montserrat-ExtraBold' font is installed in your system-wide font directory (e.g., /Library/Fonts on macOS).")
 
     # Write ASS subtitle file with clean, bold styling at the TOP CENTER
-    ass_file = os.path.join(OUTPUT_DIR, 'temp_subtitles.ass')
+    ass_file = os.path.abspath(os.path.join(OUTPUT_DIR, 'temp_subtitles.ass'))
     with open(ass_file, 'w', encoding='utf-8') as f:
         f.write("""[Script Info]
 ScriptType: v4.00+
@@ -181,18 +181,22 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
             f.write(f"Dialogue: 0,{start},{end},Default,,0,0,0,,{line}\n")
     
     final_output = output_path.replace('.mp4', '_with_subtitles.mp4')
+    # Use absolute, quoted paths for ffmpeg
+    abs_video_path = os.path.abspath(video_path)
+    abs_final_output = os.path.abspath(final_output)
+    # Wrap ass_file in double quotes for ffmpeg
     ffmpeg_cmd = [
-        'ffmpeg', '-i', video_path,
-        '-vf', f"ass={ass_file}",
+        'ffmpeg', '-i', abs_video_path,
+        '-vf', f'ass="{ass_file}"',
         '-c:a', 'copy',
         '-y',
-        final_output
+        abs_final_output
     ]
     try:
         result = subprocess.run(ffmpeg_cmd, check=True, capture_output=True)
         os.remove(ass_file)
         print(f'Styled subtitles added successfully!')
-        return final_output
+        return abs_final_output
     except subprocess.CalledProcessError as e:
         print(f'Error adding subtitles: {e}')
         print(f'FFmpeg stderr: {e.stderr.decode()}')
