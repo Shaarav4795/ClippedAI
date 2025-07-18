@@ -49,11 +49,28 @@ def load_existing_transcription(transcription_path):
     return None
 
 def save_transcription(transcription, transcription_path):
-    """Save transcription to file"""
+    """Save transcription to file (both .pkl and .json)"""
+    import json
     try:
         with open(transcription_path, 'wb') as f:
             pickle.dump(transcription, f)
         print(f"Transcription saved to: {transcription_path}")
+        # Save as JSON as well
+        json_path = os.path.splitext(transcription_path)[0] + '.json'
+        try:
+            # Try to use to_dict() if available
+            if hasattr(transcription, 'to_dict'):
+                data = transcription.to_dict()
+            # Try to use get_word_info() if available (common for transcript objects)
+            elif hasattr(transcription, 'get_word_info'):
+                data = transcription.get_word_info()
+            else:
+                data = transcription  # fallback
+            with open(json_path, 'w', encoding='utf-8') as jf:
+                json.dump(data, jf, ensure_ascii=False, indent=2)
+            print(f"Transcription also saved as JSON to: {json_path}")
+        except Exception as je:
+            print(f"Error saving transcription as JSON: {je}")
     except Exception as e:
         print(f"Error saving transcription: {e}")
 
