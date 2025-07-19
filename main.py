@@ -198,13 +198,13 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
             f.write(f"Dialogue: 0,{start},{end},Default,,0,0,0,,{line}\n")
     
     final_output = output_path.replace('.mp4', '_with_subtitles.mp4')
-    # Use absolute, quoted paths for ffmpeg
+    # Use absolute, forward-slash paths for ffmpeg (cross-platform)
     abs_video_path = os.path.abspath(video_path)
     abs_final_output = os.path.abspath(final_output)
-    # Wrap ass_file in double quotes for ffmpeg
+    ass_file_ffmpeg = ass_file.replace("\\", "/")
     ffmpeg_cmd = [
         'ffmpeg', '-i', abs_video_path,
-        '-vf', f'ass="{ass_file}"',
+        '-vf', f'ass={ass_file_ffmpeg}',
         '-c:a', 'copy',
         '-y',
         abs_final_output
