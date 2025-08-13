@@ -311,7 +311,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - 🐛 **Bug Reports**: [GitHub Issues](https://github.com/Shaarav4795/ClippedAI/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/Shaarav4795/ClippedAI/discussions)
 - 📧 **Email**: aryashaarav@icloud.com
 - 💬 **Discord**: shaarav4795.
 
