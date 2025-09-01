@@ -20,12 +20,16 @@ import subprocess
 import json
 import tempfile
 import sys
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
 
 nltk.download('punkt')
 
 INPUT_DIR = 'input'
 OUTPUT_DIR = 'output'
-HUGGINGFACE_TOKEN = 'YOUR API KEY HERE'  # <-- User's actual token
+HUGGINGFACE_TOKEN = os.getenv("Huggingfaceapi")# <-- User's actual token
 MIN_CLIP_DURATION = 45  # Minimum duration in seconds for YouTube Shorts
 MAX_CLIP_DURATION = 120  # Maximum duration in seconds for YouTube Shorts
 
