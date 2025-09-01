@@ -20,12 +20,16 @@ import subprocess
 import json
 import tempfile
 import sys
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
 
 nltk.download('punkt')
 
 INPUT_DIR = 'input'
 OUTPUT_DIR = 'output'
-HUGGINGFACE_TOKEN = 'YOUR API KEY HERE'  # <-- User's actual token
+HUGGINGFACE_TOKEN = os.getenv("Huggingfaceapi")# <-- User's actual token
 MIN_CLIP_DURATION = 45  # Minimum duration in seconds for YouTube Shorts
 MAX_CLIP_DURATION = 120  # Maximum duration in seconds for YouTube Shorts
 
@@ -367,7 +371,7 @@ for video_idx, (video_file, transcription_file) in enumerate(video_transcription
     max_clips = video_max_clips[video_file]
 
     # 1. Transcribe the video (or load existing)
-    transcriber = Transcriber(model_size="large-v1")
+    transcriber = Transcriber(model_size="base")
     transcription = load_existing_transcription(transcription_path) if transcription_file else None
     if transcription is None:
         transcription = transcribe_with_progress(input_path, transcriber)
@@ -478,7 +482,7 @@ for video_idx, (video_file, transcription_file) in enumerate(video_transcription
         final_output = create_animated_subtitles(output_path, transcription, clip, output_path)
         # 7. Generate viral title using Groq API
         clip_text = " ".join([w["word"] for w in transcription.get_word_info() if w["start_time"] >= clip.start_time and w["end_time"] <= clip.end_time])
-        groq_api_key = "YOUR API KEY HERE"
+        groq_api_key = "grok_api"
         title = get_viral_title(clip_text, groq_api_key)
         print(f"\nViral Title for Clip {clip_index + 1}: {title}")
         # 8. Save the final video with the viral title (keep spaces, punctuation, and emojis)
