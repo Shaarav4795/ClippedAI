@@ -482,7 +482,7 @@ for video_idx, (video_file, transcription_file) in enumerate(video_transcription
         final_output = create_animated_subtitles(output_path, transcription, clip, output_path)
         # 7. Generate viral title using Groq API
         clip_text = " ".join([w["word"] for w in transcription.get_word_info() if w["start_time"] >= clip.start_time and w["end_time"] <= clip.end_time])
-        groq_api_key = "grok_api"
+        groq_api_key = os.getenv("groq_api")  # <-- User's actual Groq API key
         title = get_viral_title(clip_text, groq_api_key)
         print(f"\nViral Title for Clip {clip_index + 1}: {title}")
         # 8. Save the final video with the viral title (keep spaces, punctuation, and emojis)
