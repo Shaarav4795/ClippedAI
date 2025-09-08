@@ -1,0 +1,4410 @@
+[
+  {
+    "word": "Eric",
+    "start_char": 0,
+    "end_char": 4,
+    "start_time": 0.031,
+    "end_time": 0.311,
+    "speaker": null
+  },
+  {
+    "word": "Tenharg,",
+    "start_char": 5,
+    "end_char": 13,
+    "start_time": 0.331,
+    "end_time": 0.952,
+    "speaker": null
+  },
+  {
+    "word": "two",
+    "start_char": 14,
+    "end_char": 17,
+    "start_time": 1.232,
+    "end_time": 1.413,
+    "speaker": null
+  },
+  {
+    "word": "games",
+    "start_char": 18,
+    "end_char": 23,
+    "start_time": 1.473,
+    "end_time": 1.813,
+    "speaker": null
+  },
+  {
+    "word": "by",
+    "start_char": 24,
+    "end_char": 26,
+    "start_time": 2.254,
+    "end_time": 2.434,
+    "speaker": null
+  },
+  {
+    "word": "Labakus",
+    "start_char": 27,
+    "end_char": 34,
+    "start_time": 2.454,
+    "end_time": 2.914,
+    "speaker": null
+  },
+  {
+    "word": "and",
+    "start_char": 35,
+    "end_char": 38,
+    "start_time": 2.934,
+    "end_time": 3.015,
+    "speaker": null
+  },
+  {
+    "word": "out.",
+    "start_char": 39,
+    "end_char": 43,
+    "start_time": 3.715,
+    "end_time": 3.876,
+    "speaker": null
+  },
+  {
+    "word": "Why",
+    "start_char": 44,
+    "end_char": 47,
+    "start_time": 4.797,
+    "end_time": 4.897,
+    "speaker": null
+  },
+  {
+    "word": "have",
+    "start_char": 48,
+    "end_char": 52,
+    "start_time": 4.937,
+    "end_time": 5.017,
+    "speaker": null
+  },
+  {
+    "word": "they",
+    "start_char": 53,
+    "end_char": 57,
+    "start_time": 5.037,
+    "end_time": 5.157,
+    "speaker": null
+  },
+  {
+    "word": "done",
+    "start_char": 58,
+    "end_char": 62,
+    "start_time": 5.197,
+    "end_time": 5.337,
+    "speaker": null
+  },
+  {
+    "word": "it?",
+    "start_char": 63,
+    "end_char": 66,
+    "start_time": 5.377,
+    "end_time": 5.437,
+    "speaker": null
+  },
+  {
+    "word": "It",
+    "start_char": 67,
+    "end_char": 69,
+    "start_time": 6.439,
+    "end_time": 6.479,
+    "speaker": null
+  },
+  {
+    "word": "was",
+    "start_char": 70,
+    "end_char": 73,
+    "start_time": 6.519,
+    "end_time": 6.619,
+    "speaker": null
+  },
+  {
+    "word": "funny",
+    "start_char": 74,
+    "end_char": 79,
+    "start_time": 6.699,
+    "end_time": 6.919,
+    "speaker": null
+  },
+  {
+    "word": "because",
+    "start_char": 80,
+    "end_char": 87,
+    "start_time": 6.979,
+    "end_time": 7.32,
+    "speaker": null
+  },
+  {
+    "word": "the",
+    "start_char": 88,
+    "end_char": 91,
+    "start_time": 7.36,
+    "end_time": 7.72,
+    "speaker": null
+  },
+  {
+    "word": "sporting",
+    "start_char": 92,
+    "end_char": 100,
+    "start_time": 7.78,
+    "end_time": 8.141,
+    "speaker": null
+  },
+  {
+    "word": "director,",
+    "start_char": 101,
+    "end_char": 110,
+    "start_time": 8.181,
+    "end_time": 8.701,
+    "speaker": null
+  },
+  {
+    "word": "Simon",
+    "start_char": 111,
+    "end_char": 116,
+    "start_time": 9.702,
+    "end_time": 10.003,
+    "speaker": null
+  },
+  {
+    "word": "Rolfers,",
+    "start_char": 117,
+    "end_char": 125,
+    "start_time": 10.043,
+    "end_time": 10.483,
+    "speaker": null
+  },
+  {
+    "word": "who",
+    "start_char": 126,
+    "end_char": 129,
+    "start_time": 10.523,
+    "end_time": 10.584,
+    "speaker": null
+  },
+  {
+    "word": "used",
+    "start_char": 130,
+    "end_char": 134,
+    "start_time": 10.604,
+    "end_time": 10.704,
+    "speaker": null
+  },
+  {
+    "word": "to",
+    "start_char": 135,
+    "end_char": 137,
+    "start_time": 10.744,
+    "end_time": 10.804,
+    "speaker": null
+  },
+  {
+    "word": "play",
+    "start_char": 138,
+    "end_char": 142,
+    "start_time": 10.844,
+    "end_time": 11.024,
+    "speaker": null
+  },
+  {
+    "word": "for",
+    "start_char": 143,
+    "end_char": 146,
+    "start_time": 11.064,
+    "end_time": 11.144,
+    "speaker": null
+  },
+  {
+    "word": "them,",
+    "start_char": 147,
+    "end_char": 152,
+    "start_time": 11.184,
+    "end_time": 11.304,
+    "speaker": null
+  },
+  {
+    "word": "of",
+    "start_char": 153,
+    "end_char": 155,
+    "start_time": 11.324,
+    "end_time": 11.384,
+    "speaker": null
+  },
+  {
+    "word": "course.",
+    "start_char": 156,
+    "end_char": 163,
+    "start_time": 11.465,
+    "end_time": 11.745,
+    "speaker": null
+  },
+  {
+    "word": "He",
+    "start_char": 164,
+    "end_char": 166,
+    "start_time": 12.306,
+    "end_time": 12.406,
+    "speaker": null
+  },
+  {
+    "word": "spoke",
+    "start_char": 167,
+    "end_char": 172,
+    "start_time": 12.446,
+    "end_time": 12.686,
+    "speaker": null
+  },
+  {
+    "word": "about",
+    "start_char": 173,
+    "end_char": 178,
+    "start_time": 12.746,
+    "end_time": 12.906,
+    "speaker": null
+  },
+  {
+    "word": "it",
+    "start_char": 179,
+    "end_char": 181,
+    "start_time": 12.946,
+    "end_time": 12.986,
+    "speaker": null
+  },
+  {
+    "word": "a",
+    "start_char": 182,
+    "end_char": 183,
+    "start_time": 13.006,
+    "end_time": 13.026,
+    "speaker": null
+  },
+  {
+    "word": "lunchtime",
+    "start_char": 184,
+    "end_char": 193,
+    "start_time": 13.407,
+    "end_time": 13.827,
+    "speaker": null
+  },
+  {
+    "word": "today,",
+    "start_char": 194,
+    "end_char": 200,
+    "start_time": 13.867,
+    "end_time": 14.088,
+    "speaker": null
+  },
+  {
+    "word": "gave",
+    "start_char": 201,
+    "end_char": 205,
+    "start_time": 14.148,
+    "end_time": 14.368,
+    "speaker": null
+  },
+  {
+    "word": "a",
+    "start_char": 206,
+    "end_char": 207,
+    "start_time": 14.408,
+    "end_time": 14.468,
+    "speaker": null
+  },
+  {
+    "word": "press",
+    "start_char": 208,
+    "end_char": 213,
+    "start_time": 14.588,
+    "end_time": 14.789,
+    "speaker": null
+  },
+  {
+    "word": "conference.",
+    "start_char": 214,
+    "end_char": 225,
+    "start_time": 14.829,
+    "end_time": 15.289,
+    "speaker": null
+  },
+  {
+    "word": "Eric",
+    "start_char": 226,
+    "end_char": 230,
+    "start_time": 15.63,
+    "end_time": 15.81,
+    "speaker": null
+  },
+  {
+    "word": "Tenharg's",
+    "start_char": 231,
+    "end_char": 240,
+    "start_time": 15.83,
+    "end_time": 16.21,
+    "speaker": null
+  },
+  {
+    "word": "had",
+    "start_char": 241,
+    "end_char": 244,
+    "start_time": 16.25,
+    "end_time": 16.39,
+    "speaker": null
+  },
+  {
+    "word": "his",
+    "start_char": 245,
+    "end_char": 248,
+    "start_time": 16.43,
+    "end_time": 16.551,
+    "speaker": null
+  },
+  {
+    "word": "social",
+    "start_char": 249,
+    "end_char": 255,
+    "start_time": 17.211,
+    "end_time": 17.532,
+    "speaker": null
+  },
+  {
+    "word": "media",
+    "start_char": 256,
+    "end_char": 261,
+    "start_time": 17.572,
+    "end_time": 17.832,
+    "speaker": null
+  },
+  {
+    "word": "retool,",
+    "start_char": 262,
+    "end_char": 269,
+    "start_time": 17.872,
+    "end_time": 18.253,
+    "speaker": null
+  },
+  {
+    "word": "and",
+    "start_char": 270,
+    "end_char": 273,
+    "start_time": 18.313,
+    "end_time": 18.393,
+    "speaker": null
+  },
+  {
+    "word": "maybe",
+    "start_char": 274,
+    "end_char": 279,
+    "start_time": 18.433,
+    "end_time": 18.653,
+    "speaker": null
+  },
+  {
+    "word": "we'll",
+    "start_char": 280,
+    "end_char": 285,
+    "start_time": 18.693,
+    "end_time": 18.813,
+    "speaker": null
+  },
+  {
+    "word": "get",
+    "start_char": 286,
+    "end_char": 289,
+    "start_time": 18.853,
+    "end_time": 18.953,
+    "speaker": null
+  },
+  {
+    "word": "to",
+    "start_char": 290,
+    "end_char": 292,
+    "start_time": 18.994,
+    "end_time": 19.034,
+    "speaker": null
+  },
+  {
+    "word": "that",
+    "start_char": 293,
+    "end_char": 297,
+    "start_time": 19.094,
+    "end_time": 19.234,
+    "speaker": null
+  },
+  {
+    "word": "in",
+    "start_char": 298,
+    "end_char": 300,
+    "start_time": 19.294,
+    "end_time": 19.354,
+    "speaker": null
+  },
+  {
+    "word": "a",
+    "start_char": 301,
+    "end_char": 302,
+    "start_time": 19.414,
+    "end_time": 19.434,
+    "speaker": null
+  },
+  {
+    "word": "little",
+    "start_char": 303,
+    "end_char": 309,
+    "start_time": 19.875,
+    "end_time": 20.075,
+    "speaker": null
+  },
+  {
+    "word": "minute.",
+    "start_char": 310,
+    "end_char": 317,
+    "start_time": 20.115,
+    "end_time": 20.415,
+    "speaker": null
+  },
+  {
+    "word": "But",
+    "start_char": 318,
+    "end_char": 321,
+    "start_time": 20.816,
+    "end_time": 20.996,
+    "speaker": null
+  },
+  {
+    "word": "Rolfers",
+    "start_char": 322,
+    "end_char": 329,
+    "start_time": 21.777,
+    "end_time": 22.097,
+    "speaker": null
+  },
+  {
+    "word": "said,",
+    "start_char": 330,
+    "end_char": 335,
+    "start_time": 22.137,
+    "end_time": 22.277,
+    "speaker": null
+  },
+  {
+    "word": "look,",
+    "start_char": 336,
+    "end_char": 341,
+    "start_time": 22.317,
+    "end_time": 22.558,
+    "speaker": null
+  },
+  {
+    "word": "I",
+    "start_char": 342,
+    "end_char": 343,
+    "start_time": 22.578,
+    "end_time": 22.598,
+    "speaker": null
+  },
+  {
+    "word": "made",
+    "start_char": 344,
+    "end_char": 348,
+    "start_time": 22.918,
+    "end_time": 23.038,
+    "speaker": null
+  },
+  {
+    "word": "a",
+    "start_char": 349,
+    "end_char": 350,
+    "start_time": 23.078,
+    "end_time": 23.098,
+    "speaker": null
+  },
+  {
+    "word": "mistake,",
+    "start_char": 351,
+    "end_char": 359,
+    "start_time": 23.138,
+    "end_time": 23.539,
+    "speaker": null
+  },
+  {
+    "word": "but",
+    "start_char": 360,
+    "end_char": 363,
+    "start_time": 23.679,
+    "end_time": 23.779,
+    "speaker": null
+  },
+  {
+    "word": "it",
+    "start_char": 364,
+    "end_char": 366,
+    "start_time": 23.819,
+    "end_time": 23.859,
+    "speaker": null
+  },
+  {
+    "word": "would",
+    "start_char": 367,
+    "end_char": 372,
+    "start_time": 23.939,
+    "end_time": 24.08,
+    "speaker": null
+  },
+  {
+    "word": "have",
+    "start_char": 373,
+    "end_char": 377,
+    "start_time": 24.1,
+    "end_time": 24.2,
+    "speaker": null
+  },
+  {
+    "word": "made",
+    "start_char": 378,
+    "end_char": 382,
+    "start_time": 24.22,
+    "end_time": 24.32,
+    "speaker": null
+  },
+  {
+    "word": "it",
+    "start_char": 383,
+    "end_char": 385,
+    "start_time": 24.38,
+    "end_time": 24.42,
+    "speaker": null
+  },
+  {
+    "word": "a",
+    "start_char": 386,
+    "end_char": 387,
+    "start_time": 24.44,
+    "end_time": 24.46,
+    "speaker": null
+  },
+  {
+    "word": "worse",
+    "start_char": 388,
+    "end_char": 393,
+    "start_time": 24.54,
+    "end_time": 24.78,
+    "speaker": null
+  },
+  {
+    "word": "mistake",
+    "start_char": 394,
+    "end_char": 401,
+    "start_time": 24.84,
+    "end_time": 25.141,
+    "speaker": null
+  },
+  {
+    "word": "if",
+    "start_char": 402,
+    "end_char": 404,
+    "start_time": 25.201,
+    "end_time": 25.261,
+    "speaker": null
+  },
+  {
+    "word": "I",
+    "start_char": 405,
+    "end_char": 406,
+    "start_time": 25.321,
+    "end_time": 25.361,
+    "speaker": null
+  },
+  {
+    "word": "hadn't",
+    "start_char": 407,
+    "end_char": 413,
+    "start_time": 25.401,
+    "end_time": 25.601,
+    "speaker": null
+  },
+  {
+    "word": "have",
+    "start_char": 414,
+    "end_char": 418,
+    "start_time": 25.621,
+    "end_time": 25.702,
+    "speaker": null
+  },
+  {
+    "word": "done",
+    "start_char": 419,
+    "end_char": 423,
+    "start_time": 25.722,
+    "end_time": 25.862,
+    "speaker": null
+  },
+  {
+    "word": "anything",
+    "start_char": 424,
+    "end_char": 432,
+    "start_time": 25.942,
+    "end_time": 26.202,
+    "speaker": null
+  },
+  {
+    "word": "about",
+    "start_char": 433,
+    "end_char": 438,
+    "start_time": 26.222,
+    "end_time": 26.482,
+    "speaker": null
+  },
+  {
+    "word": "it.",
+    "start_char": 439,
+    "end_char": 442,
+    "start_time": 26.603,
+    "end_time": 26.983,
+    "speaker": null
+  },
+  {
+    "word": "Now,",
+    "start_char": 443,
+    "end_char": 447,
+    "start_time": 26.963,
+    "end_time": 27.283,
+    "speaker": null
+  },
+  {
+    "word": "of",
+    "start_char": 448,
+    "end_char": 450,
+    "start_time": 27.584,
+    "end_time": 27.624,
+    "speaker": null
+  },
+  {
+    "word": "course,",
+    "start_char": 451,
+    "end_char": 458,
+    "start_time": 27.704,
+    "end_time": 27.884,
+    "speaker": null
+  },
+  {
+    "word": "you",
+    "start_char": 459,
+    "end_char": 462,
+    "start_time": 27.904,
+    "end_time": 28.025,
+    "speaker": null
+  },
+  {
+    "word": "go",
+    "start_char": 463,
+    "end_char": 465,
+    "start_time": 28.045,
+    "end_time": 28.145,
+    "speaker": null
+  },
+  {
+    "word": "back",
+    "start_char": 466,
+    "end_char": 470,
+    "start_time": 28.185,
+    "end_time": 28.285,
+    "speaker": null
+  },
+  {
+    "word": "to",
+    "start_char": 471,
+    "end_char": 473,
+    "start_time": 28.345,
+    "end_time": 28.445,
+    "speaker": null
+  },
+  {
+    "word": "him",
+    "start_char": 474,
+    "end_char": 477,
+    "start_time": 28.525,
+    "end_time": 28.626,
+    "speaker": null
+  },
+  {
+    "word": "taking",
+    "start_char": 478,
+    "end_char": 484,
+    "start_time": 28.666,
+    "end_time": 28.986,
+    "speaker": null
+  },
+  {
+    "word": "over",
+    "start_char": 485,
+    "end_char": 489,
+    "start_time": 29.026,
+    "end_time": 29.146,
+    "speaker": null
+  },
+  {
+    "word": "in",
+    "start_char": 490,
+    "end_char": 492,
+    "start_time": 29.186,
+    "end_time": 29.247,
+    "speaker": null
+  },
+  {
+    "word": "July",
+    "start_char": 493,
+    "end_char": 497,
+    "start_time": 29.267,
+    "end_time": 29.467,
+    "speaker": null
+  },
+  {
+    "word": "when",
+    "start_char": 498,
+    "end_char": 502,
+    "start_time": 29.507,
+    "end_time": 29.607,
+    "speaker": null
+  },
+  {
+    "word": "he",
+    "start_char": 503,
+    "end_char": 505,
+    "start_time": 29.627,
+    "end_time": 29.667,
+    "speaker": null
+  },
+  {
+    "word": "wasn't",
+    "start_char": 506,
+    "end_char": 512,
+    "start_time": 29.707,
+    "end_time": 29.908,
+    "speaker": null
+  },
+  {
+    "word": "the",
+    "start_char": 513,
+    "end_char": 516,
+    "start_time": 29.928,
+    "end_time": 29.988,
+    "speaker": null
+  },
+  {
+    "word": "first",
+    "start_char": 517,
+    "end_char": 522,
+    "start_time": 30.028,
+    "end_time": 30.228,
+    "speaker": null
+  },
+  {
+    "word": "choice.",
+    "start_char": 523,
+    "end_char": 530,
+    "start_time": 30.288,
+    "end_time": 30.528,
+    "speaker": null
+  },
+  {
+    "word": "They",
+    "start_char": 531,
+    "end_char": 535,
+    "start_time": 30.549,
+    "end_time": 30.669,
+    "speaker": null
+  },
+  {
+    "word": "thought",
+    "start_char": 536,
+    "end_char": 543,
+    "start_time": 30.749,
+    "end_time": 30.949,
+    "speaker": null
+  },
+  {
+    "word": "they",
+    "start_char": 544,
+    "end_char": 548,
+    "start_time": 30.989,
+    "end_time": 31.149,
+    "speaker": null
+  },
+  {
+    "word": "had",
+    "start_char": 549,
+    "end_char": 552,
+    "start_time": 31.21,
+    "end_time": 31.43,
+    "speaker": null
+  },
+  {
+    "word": "SESC",
+    "start_char": 553,
+    "end_char": 557,
+    "start_time": 31.891,
+    "end_time": 32.151,
+    "speaker": null
+  },
+  {
+    "word": "Fabregas.",
+    "start_char": 558,
+    "end_char": 567,
+    "start_time": 32.211,
+    "end_time": 32.812,
+    "speaker": null
+  },
+  {
+    "word": "They",
+    "start_char": 568,
+    "end_char": 572,
+    "start_time": 32.932,
+    "end_time": 33.072,
+    "speaker": null
+  },
+  {
+    "word": "didn't",
+    "start_char": 573,
+    "end_char": 579,
+    "start_time": 33.193,
+    "end_time": 33.533,
+    "speaker": null
+  },
+  {
+    "word": "because",
+    "start_char": 580,
+    "end_char": 587,
+    "start_time": 34.274,
+    "end_time": 34.475,
+    "speaker": null
+  },
+  {
+    "word": "Coma",
+    "start_char": 588,
+    "end_char": 592,
+    "start_time": 34.535,
+    "end_time": 34.875,
+    "speaker": null
+  },
+  {
+    "word": "wouldn't",
+    "start_char": 593,
+    "end_char": 601,
+    "start_time": 34.895,
+    "end_time": 35.116,
+    "speaker": null
+  },
+  {
+    "word": "let",
+    "start_char": 602,
+    "end_char": 605,
+    "start_time": 35.136,
+    "end_time": 35.236,
+    "speaker": null
+  },
+  {
+    "word": "him",
+    "start_char": 606,
+    "end_char": 609,
+    "start_time": 35.276,
+    "end_time": 35.356,
+    "speaker": null
+  },
+  {
+    "word": "go",
+    "start_char": 610,
+    "end_char": 612,
+    "start_time": 35.396,
+    "end_time": 35.596,
+    "speaker": null
+  },
+  {
+    "word": "and",
+    "start_char": 613,
+    "end_char": 616,
+    "start_time": 35.636,
+    "end_time": 35.877,
+    "speaker": null
+  },
+  {
+    "word": "Fabregas",
+    "start_char": 617,
+    "end_char": 625,
+    "start_time": 36.378,
+    "end_time": 36.818,
+    "speaker": null
+  },
+  {
+    "word": "wasn't",
+    "start_char": 626,
+    "end_char": 632,
+    "start_time": 36.858,
+    "end_time": 37.079,
+    "speaker": null
+  },
+  {
+    "word": "prepared",
+    "start_char": 633,
+    "end_char": 641,
+    "start_time": 37.099,
+    "end_time": 37.379,
+    "speaker": null
+  },
+  {
+    "word": "to",
+    "start_char": 642,
+    "end_char": 644,
+    "start_time": 37.399,
+    "end_time": 37.439,
+    "speaker": null
+  },
+  {
+    "word": "go",
+    "start_char": 645,
+    "end_char": 647,
+    "start_time": 37.459,
+    "end_time": 37.599,
+    "speaker": null
+  },
+  {
+    "word": "to",
+    "start_char": 648,
+    "end_char": 650,
+    "start_time": 37.619,
+    "end_time": 37.68,
+    "speaker": null
+  },
+  {
+    "word": "war",
+    "start_char": 651,
+    "end_char": 654,
+    "start_time": 37.72,
+    "end_time": 37.88,
+    "speaker": null
+  },
+  {
+    "word": "with",
+    "start_char": 655,
+    "end_char": 659,
+    "start_time": 37.9,
+    "end_time": 38.0,
+    "speaker": null
+  },
+  {
+    "word": "them,",
+    "start_char": 660,
+    "end_char": 665,
+    "start_time": 38.02,
+    "end_time": 38.14,
+    "speaker": null
+  },
+  {
+    "word": "of",
+    "start_char": 666,
+    "end_char": 668,
+    "start_time": 38.18,
+    "end_time": 38.26,
+    "speaker": null
+  },
+  {
+    "word": "course,",
+    "start_char": 669,
+    "end_char": 676,
+    "start_time": 38.3,
+    "end_time": 38.541,
+    "speaker": null
+  },
+  {
+    "word": "as",
+    "start_char": 677,
+    "end_char": 679,
+    "start_time": 38.581,
+    "end_time": 38.621,
+    "speaker": null
+  },
+  {
+    "word": "a",
+    "start_char": 680,
+    "end_char": 681,
+    "start_time": 38.641,
+    "end_time": 38.661,
+    "speaker": null
+  },
+  {
+    "word": "part",
+    "start_char": 682,
+    "end_char": 686,
+    "start_time": 38.701,
+    "end_time": 38.982,
+    "speaker": null
+  },
+  {
+    "word": "shareholder.",
+    "start_char": 687,
+    "end_char": 699,
+    "start_time": 39.022,
+    "end_time": 39.663,
+    "speaker": null
+  },
+  {
+    "word": "And",
+    "start_char": 700,
+    "end_char": 703,
+    "start_time": 40.464,
+    "end_time": 40.544,
+    "speaker": null
+  },
+  {
+    "word": "so",
+    "start_char": 704,
+    "end_char": 706,
+    "start_time": 40.604,
+    "end_time": 40.744,
+    "speaker": null
+  },
+  {
+    "word": "they",
+    "start_char": 707,
+    "end_char": 711,
+    "start_time": 40.784,
+    "end_time": 41.105,
+    "speaker": null
+  },
+  {
+    "word": "ended",
+    "start_char": 712,
+    "end_char": 717,
+    "start_time": 41.165,
+    "end_time": 41.325,
+    "speaker": null
+  },
+  {
+    "word": "up",
+    "start_char": 718,
+    "end_char": 720,
+    "start_time": 41.425,
+    "end_time": 41.505,
+    "speaker": null
+  },
+  {
+    "word": "a",
+    "start_char": 721,
+    "end_char": 722,
+    "start_time": 41.545,
+    "end_time": 41.566,
+    "speaker": null
+  },
+  {
+    "word": "couple",
+    "start_char": 723,
+    "end_char": 729,
+    "start_time": 41.606,
+    "end_time": 41.786,
+    "speaker": null
+  },
+  {
+    "word": "of",
+    "start_char": 730,
+    "end_char": 732,
+    "start_time": 41.806,
+    "end_time": 41.846,
+    "speaker": null
+  },
+  {
+    "word": "choices",
+    "start_char": 733,
+    "end_char": 740,
+    "start_time": 41.906,
+    "end_time": 42.247,
+    "speaker": null
+  },
+  {
+    "word": "down",
+    "start_char": 741,
+    "end_char": 745,
+    "start_time": 42.307,
+    "end_time": 42.467,
+    "speaker": null
+  },
+  {
+    "word": "the",
+    "start_char": 746,
+    "end_char": 749,
+    "start_time": 42.507,
+    "end_time": 42.567,
+    "speaker": null
+  },
+  {
+    "word": "line",
+    "start_char": 750,
+    "end_char": 754,
+    "start_time": 42.607,
+    "end_time": 42.747,
+    "speaker": null
+  },
+  {
+    "word": "with",
+    "start_char": 755,
+    "end_char": 759,
+    "start_time": 42.787,
+    "end_time": 42.888,
+    "speaker": null
+  },
+  {
+    "word": "Tenhaargan.",
+    "start_char": 760,
+    "end_char": 771,
+    "start_time": 42.928,
+    "end_time": 43.468,
+    "speaker": null
+  },
+  {
+    "word": "It",
+    "start_char": 772,
+    "end_char": 774,
+    "start_time": 43.509,
+    "end_time": 43.549,
+    "speaker": null
+  },
+  {
+    "word": "felt",
+    "start_char": 775,
+    "end_char": 779,
+    "start_time": 43.649,
+    "end_time": 43.829,
+    "speaker": null
+  },
+  {
+    "word": "like",
+    "start_char": 780,
+    "end_char": 784,
+    "start_time": 43.889,
+    "end_time": 44.009,
+    "speaker": null
+  },
+  {
+    "word": "quite",
+    "start_char": 785,
+    "end_char": 790,
+    "start_time": 44.149,
+    "end_time": 44.29,
+    "speaker": null
+  },
+  {
+    "word": "a",
+    "start_char": 791,
+    "end_char": 792,
+    "start_time": 44.31,
+    "end_time": 44.33,
+    "speaker": null
+  },
+  {
+    "word": "good",
+    "start_char": 793,
+    "end_char": 797,
+    "start_time": 44.35,
+    "end_time": 44.51,
+    "speaker": null
+  },
+  {
+    "word": "placeholder.",
+    "start_char": 798,
+    "end_char": 810,
+    "start_time": 44.53,
+    "end_time": 45.011,
+    "speaker": null
+  },
+  {
+    "word": "He's",
+    "start_char": 811,
+    "end_char": 815,
+    "start_time": 45.031,
+    "end_time": 45.131,
+    "speaker": null
+  },
+  {
+    "word": "got",
+    "start_char": 816,
+    "end_char": 819,
+    "start_time": 45.171,
+    "end_time": 45.271,
+    "speaker": null
+  },
+  {
+    "word": "a",
+    "start_char": 820,
+    "end_char": 821,
+    "start_time": 45.311,
+    "end_time": 45.331,
+    "speaker": null
+  },
+  {
+    "word": "good",
+    "start_char": 822,
+    "end_char": 826,
+    "start_time": 45.371,
+    "end_time": 45.492,
+    "speaker": null
+  },
+  {
+    "word": "reputation",
+    "start_char": 827,
+    "end_char": 837,
+    "start_time": 45.552,
+    "end_time": 46.072,
+    "speaker": null
+  },
+  {
+    "word": "in",
+    "start_char": 838,
+    "end_char": 840,
+    "start_time": 46.153,
+    "end_time": 46.233,
+    "speaker": null
+  },
+  {
+    "word": "Germany.",
+    "start_char": 841,
+    "end_char": 849,
+    "start_time": 47.314,
+    "end_time": 47.755,
+    "speaker": null
+  },
+  {
+    "word": "But",
+    "start_char": 850,
+    "end_char": 853,
+    "start_time": 48.296,
+    "end_time": 48.396,
+    "speaker": null
+  },
+  {
+    "word": "from",
+    "start_char": 854,
+    "end_char": 858,
+    "start_time": 48.516,
+    "end_time": 48.697,
+    "speaker": null
+  },
+  {
+    "word": "the",
+    "start_char": 859,
+    "end_char": 862,
+    "start_time": 48.757,
+    "end_time": 48.857,
+    "speaker": null
+  },
+  {
+    "word": "off,",
+    "start_char": 863,
+    "end_char": 867,
+    "start_time": 48.997,
+    "end_time": 49.157,
+    "speaker": null
+  },
+  {
+    "word": "there",
+    "start_char": 868,
+    "end_char": 873,
+    "start_time": 49.217,
+    "end_time": 49.378,
+    "speaker": null
+  },
+  {
+    "word": "were",
+    "start_char": 874,
+    "end_char": 878,
+    "start_time": 49.418,
+    "end_time": 49.638,
+    "speaker": null
+  },
+  {
+    "word": "misgivings.",
+    "start_char": 879,
+    "end_char": 890,
+    "start_time": 49.678,
+    "end_time": 50.98,
+    "speaker": null
+  },
+  {
+    "word": "about",
+    "start_char": 891,
+    "end_char": 896,
+    "start_time": 50.96,
+    "end_time": 51.481,
+    "speaker": null
+  },
+  {
+    "word": "two",
+    "start_char": 897,
+    "end_char": 900,
+    "start_time": 51.541,
+    "end_time": 51.681,
+    "speaker": null
+  },
+  {
+    "word": "weeks",
+    "start_char": 901,
+    "end_char": 906,
+    "start_time": 51.741,
+    "end_time": 51.941,
+    "speaker": null
+  },
+  {
+    "word": "in.",
+    "start_char": 907,
+    "end_char": 910,
+    "start_time": 52.021,
+    "end_time": 52.141,
+    "speaker": null
+  },
+  {
+    "word": "They",
+    "start_char": 911,
+    "end_char": 915,
+    "start_time": 52.462,
+    "end_time": 52.562,
+    "speaker": null
+  },
+  {
+    "word": "went",
+    "start_char": 916,
+    "end_char": 920,
+    "start_time": 52.582,
+    "end_time": 52.702,
+    "speaker": null
+  },
+  {
+    "word": "on",
+    "start_char": 921,
+    "end_char": 923,
+    "start_time": 52.762,
+    "end_time": 52.802,
+    "speaker": null
+  },
+  {
+    "word": "this",
+    "start_char": 924,
+    "end_char": 928,
+    "start_time": 52.842,
+    "end_time": 52.942,
+    "speaker": null
+  },
+  {
+    "word": "promotional",
+    "start_char": 929,
+    "end_char": 940,
+    "start_time": 53.002,
+    "end_time": 53.543,
+    "speaker": null
+  },
+  {
+    "word": "tour",
+    "start_char": 941,
+    "end_char": 945,
+    "start_time": 53.603,
+    "end_time": 53.863,
+    "speaker": null
+  },
+  {
+    "word": "of",
+    "start_char": 946,
+    "end_char": 948,
+    "start_time": 54.264,
+    "end_time": 54.304,
+    "speaker": null
+  },
+  {
+    "word": "Brazil",
+    "start_char": 949,
+    "end_char": 955,
+    "start_time": 54.364,
+    "end_time": 54.784,
+    "speaker": null
+  },
+  {
+    "word": "and",
+    "start_char": 956,
+    "end_char": 959,
+    "start_time": 55.025,
+    "end_time": 55.105,
+    "speaker": null
+  },
+  {
+    "word": "lost",
+    "start_char": 960,
+    "end_char": 964,
+    "start_time": 55.145,
+    "end_time": 55.345,
+    "speaker": null
+  },
+  {
+    "word": "five",
+    "start_char": 965,
+    "end_char": 969,
+    "start_time": 55.385,
+    "end_time": 55.785,
+    "speaker": null
+  },
+  {
+    "word": "ones",
+    "start_char": 970,
+    "end_char": 974,
+    "start_time": 55.946,
+    "end_time": 56.066,
+    "speaker": null
+  },
+  {
+    "word": "of",
+    "start_char": 975,
+    "end_char": 977,
+    "start_time": 56.146,
+    "end_time": 56.186,
+    "speaker": null
+  },
+  {
+    "word": "the",
+    "start_char": 978,
+    "end_char": 981,
+    "start_time": 56.206,
+    "end_time": 56.286,
+    "speaker": null
+  },
+  {
+    "word": "Flamengo",
+    "start_char": 982,
+    "end_char": 990,
+    "start_time": 56.326,
+    "end_time": 56.787,
+    "speaker": null
+  },
+  {
+    "word": "under",
+    "start_char": 991,
+    "end_char": 996,
+    "start_time": 56.987,
+    "end_time": 57.227,
+    "speaker": null
+  },
+  {
+    "word": "20s.",
+    "start_char": 997,
+    "end_char": 1001,
+    "start_time": 57.287,
+    "end_time": 57.888,
+    "speaker": null
+  },
+  {
+    "word": "And",
+    "start_char": 1002,
+    "end_char": 1005,
+    "start_time": 58.609,
+    "end_time": 58.749,
+    "speaker": null
+  },
+  {
+    "word": "then",
+    "start_char": 1006,
+    "end_char": 1010,
+    "start_time": 59.109,
+    "end_time": 59.229,
+    "speaker": null
+  },
+  {
+    "word": "he",
+    "start_char": 1011,
+    "end_char": 1013,
+    "start_time": 59.249,
+    "end_time": 59.329,
+    "speaker": null
+  },
+  {
+    "word": "said,",
+    "start_char": 1014,
+    "end_char": 1019,
+    "start_time": 59.389,
+    "end_time": 59.57,
+    "speaker": null
+  },
+  {
+    "word": "after",
+    "start_char": 1020,
+    "end_char": 1025,
+    "start_time": 59.61,
+    "end_time": 59.93,
+    "speaker": null
+  },
+  {
+    "word": "that,",
+    "start_char": 1026,
+    "end_char": 1031,
+    "start_time": 59.97,
+    "end_time": 60.11,
+    "speaker": null
+  },
+  {
+    "word": "well,",
+    "start_char": 1032,
+    "end_char": 1037,
+    "start_time": 60.17,
+    "end_time": 60.391,
+    "speaker": null
+  },
+  {
+    "word": "no",
+    "start_char": 1038,
+    "end_char": 1040,
+    "start_time": 60.471,
+    "end_time": 60.571,
+    "speaker": null
+  },
+  {
+    "word": "one's",
+    "start_char": 1041,
+    "end_char": 1046,
+    "start_time": 60.611,
+    "end_time": 60.731,
+    "speaker": null
+  },
+  {
+    "word": "bothered",
+    "start_char": 1047,
+    "end_char": 1055,
+    "start_time": 60.771,
+    "end_time": 61.011,
+    "speaker": null
+  },
+  {
+    "word": "about",
+    "start_char": 1056,
+    "end_char": 1061,
+    "start_time": 61.031,
+    "end_time": 61.191,
+    "speaker": null
+  },
+  {
+    "word": "the",
+    "start_char": 1062,
+    "end_char": 1065,
+    "start_time": 61.212,
+    "end_time": 61.292,
+    "speaker": null
+  },
+  {
+    "word": "results",
+    "start_char": 1066,
+    "end_char": 1073,
+    "start_time": 61.312,
+    "end_time": 61.612,
+    "speaker": null
+  },
+  {
+    "word": "of",
+    "start_char": 1074,
+    "end_char": 1076,
+    "start_time": 61.652,
+    "end_time": 61.692,
+    "speaker": null
+  },
+  {
+    "word": "preseason",
+    "start_char": 1077,
+    "end_char": 1086,
+    "start_time": 61.772,
+    "end_time": 62.273,
+    "speaker": null
+  },
+  {
+    "word": "games,",
+    "start_char": 1087,
+    "end_char": 1093,
+    "start_time": 62.293,
+    "end_time": 62.593,
+    "speaker": null
+  },
+  {
+    "word": "are",
+    "start_char": 1094,
+    "end_char": 1097,
+    "start_time": 62.613,
+    "end_time": 62.733,
+    "speaker": null
+  },
+  {
+    "word": "they?",
+    "start_char": 1098,
+    "end_char": 1103,
+    "start_time": 62.753,
+    "end_time": 62.893,
+    "speaker": null
+  },
+  {
+    "word": "Everyone's",
+    "start_char": 1104,
+    "end_char": 1114,
+    "start_time": 63.474,
+    "end_time": 63.975,
+    "speaker": null
+  },
+  {
+    "word": "a",
+    "start_char": 1115,
+    "end_char": 1116,
+    "start_time": 64.015,
+    "end_time": 64.035,
+    "speaker": null
+  },
+  {
+    "word": "little",
+    "start_char": 1117,
+    "end_char": 1123,
+    "start_time": 64.095,
+    "end_time": 64.315,
+    "speaker": null
+  },
+  {
+    "word": "bit",
+    "start_char": 1124,
+    "end_char": 1127,
+    "start_time": 64.355,
+    "end_time": 64.515,
+    "speaker": null
+  },
+  {
+    "word": "on",
+    "start_char": 1128,
+    "end_char": 1130,
+    "start_time": 64.595,
+    "end_time": 64.675,
+    "speaker": null
+  },
+  {
+    "word": "edge.",
+    "start_char": 1131,
+    "end_char": 1136,
+    "start_time": 64.776,
+    "end_time": 64.976,
+    "speaker": null
+  },
+  {
+    "word": "And",
+    "start_char": 1137,
+    "end_char": 1140,
+    "start_time": 65.316,
+    "end_time": 65.396,
+    "speaker": null
+  },
+  {
+    "word": "then",
+    "start_char": 1141,
+    "end_char": 1145,
+    "start_time": 65.436,
+    "end_time": 65.596,
+    "speaker": null
+  },
+  {
+    "word": "from",
+    "start_char": 1146,
+    "end_char": 1150,
+    "start_time": 65.677,
+    "end_time": 65.817,
+    "speaker": null
+  },
+  {
+    "word": "there,",
+    "start_char": 1151,
+    "end_char": 1157,
+    "start_time": 65.917,
+    "end_time": 66.217,
+    "speaker": null
+  },
+  {
+    "word": "of",
+    "start_char": 1158,
+    "end_char": 1160,
+    "start_time": 66.257,
+    "end_time": 66.297,
+    "speaker": null
+  },
+  {
+    "word": "course,",
+    "start_char": 1161,
+    "end_char": 1168,
+    "start_time": 66.377,
+    "end_time": 66.658,
+    "speaker": null
+  },
+  {
+    "word": "lots",
+    "start_char": 1169,
+    "end_char": 1173,
+    "start_time": 67.018,
+    "end_time": 67.178,
+    "speaker": null
+  },
+  {
+    "word": "of",
+    "start_char": 1174,
+    "end_char": 1176,
+    "start_time": 67.238,
+    "end_time": 67.278,
+    "speaker": null
+  },
+  {
+    "word": "people",
+    "start_char": 1177,
+    "end_char": 1183,
+    "start_time": 67.338,
+    "end_time": 67.519,
+    "speaker": null
+  },
+  {
+    "word": "who",
+    "start_char": 1184,
+    "end_char": 1187,
+    "start_time": 67.539,
+    "end_time": 67.599,
+    "speaker": null
+  },
+  {
+    "word": "are",
+    "start_char": 1188,
+    "end_char": 1191,
+    "start_time": 67.619,
+    "end_time": 67.679,
+    "speaker": null
+  },
+  {
+    "word": "defending",
+    "start_char": 1192,
+    "end_char": 1201,
+    "start_time": 67.719,
+    "end_time": 68.139,
+    "speaker": null
+  },
+  {
+    "word": "ten",
+    "start_char": 1202,
+    "end_char": 1205,
+    "start_time": 68.179,
+    "end_time": 68.36,
+    "speaker": null
+  },
+  {
+    "word": "hug",
+    "start_char": 1206,
+    "end_char": 1209,
+    "start_time": 68.38,
+    "end_time": 68.62,
+    "speaker": null
+  },
+  {
+    "word": "will",
+    "start_char": 1210,
+    "end_char": 1214,
+    "start_time": 68.64,
+    "end_time": 68.84,
+    "speaker": null
+  },
+  {
+    "word": "understandably",
+    "start_char": 1215,
+    "end_char": 1229,
+    "start_time": 68.96,
+    "end_time": 69.681,
+    "speaker": null
+  },
+  {
+    "word": "say,",
+    "start_char": 1230,
+    "end_char": 1234,
+    "start_time": 69.741,
+    "end_time": 69.941,
+    "speaker": null
+  },
+  {
+    "word": "of",
+    "start_char": 1235,
+    "end_char": 1237,
+    "start_time": 69.981,
+    "end_time": 70.021,
+    "speaker": null
+  },
+  {
+    "word": "course,",
+    "start_char": 1238,
+    "end_char": 1245,
+    "start_time": 70.101,
+    "end_time": 70.282,
+    "speaker": null
+  },
+  {
+    "word": "they've",
+    "start_char": 1246,
+    "end_char": 1253,
+    "start_time": 70.302,
+    "end_time": 70.462,
+    "speaker": null
+  },
+  {
+    "word": "sold",
+    "start_char": 1254,
+    "end_char": 1258,
+    "start_time": 70.502,
+    "end_time": 70.682,
+    "speaker": null
+  },
+  {
+    "word": "a",
+    "start_char": 1259,
+    "end_char": 1260,
+    "start_time": 70.742,
+    "end_time": 70.762,
+    "speaker": null
+  },
+  {
+    "word": "lot",
+    "start_char": 1261,
+    "end_char": 1264,
+    "start_time": 70.802,
+    "end_time": 70.922,
+    "speaker": null
+  },
+  {
+    "word": "of",
+    "start_char": 1265,
+    "end_char": 1267,
+    "start_time": 70.962,
+    "end_time": 71.002,
+    "speaker": null
+  },
+  {
+    "word": "players,",
+    "start_char": 1268,
+    "end_char": 1276,
+    "start_time": 71.083,
+    "end_time": 71.383,
+    "speaker": null
+  },
+  {
+    "word": "even",
+    "start_char": 1277,
+    "end_char": 1281,
+    "start_time": 71.463,
+    "end_time": 71.623,
+    "speaker": null
+  },
+  {
+    "word": "before",
+    "start_char": 1282,
+    "end_char": 1288,
+    "start_time": 71.683,
+    "end_time": 72.144,
+    "speaker": null
+  },
+  {
+    "word": "Hincapio.",
+    "start_char": 1289,
+    "end_char": 1298,
+    "start_time": 72.564,
+    "end_time": 73.205,
+    "speaker": null
+  },
+  {
+    "word": "They've",
+    "start_char": 1299,
+    "end_char": 1306,
+    "start_time": 73.225,
+    "end_time": 73.365,
+    "speaker": null
+  },
+  {
+    "word": "sold",
+    "start_char": 1307,
+    "end_char": 1311,
+    "start_time": 73.385,
+    "end_time": 73.585,
+    "speaker": null
+  },
+  {
+    "word": "over",
+    "start_char": 1312,
+    "end_char": 1316,
+    "start_time": 73.665,
+    "end_time": 73.806,
+    "speaker": null
+  },
+  {
+    "word": "200",
+    "start_char": 1317,
+    "end_char": 1320,
+    "start_time": 73.826,
+    "end_time": 74.066,
+    "speaker": null
+  },
+  {
+    "word": "million",
+    "start_char": 1321,
+    "end_char": 1328,
+    "start_time": 74.446,
+    "end_time": 74.727,
+    "speaker": null
+  },
+  {
+    "word": "euros",
+    "start_char": 1329,
+    "end_char": 1334,
+    "start_time": 74.847,
+    "end_time": 75.167,
+    "speaker": null
+  },
+  {
+    "word": "worth",
+    "start_char": 1335,
+    "end_char": 1340,
+    "start_time": 75.207,
+    "end_time": 75.407,
+    "speaker": null
+  },
+  {
+    "word": "of",
+    "start_char": 1341,
+    "end_char": 1343,
+    "start_time": 75.488,
+    "end_time": 75.528,
+    "speaker": null
+  },
+  {
+    "word": "players",
+    "start_char": 1344,
+    "end_char": 1351,
+    "start_time": 75.568,
+    "end_time": 75.808,
+    "speaker": null
+  },
+  {
+    "word": "this",
+    "start_char": 1352,
+    "end_char": 1356,
+    "start_time": 75.848,
+    "end_time": 75.948,
+    "speaker": null
+  },
+  {
+    "word": "summer,",
+    "start_char": 1357,
+    "end_char": 1364,
+    "start_time": 75.988,
+    "end_time": 76.268,
+    "speaker": null
+  },
+  {
+    "word": "so",
+    "start_char": 1365,
+    "end_char": 1367,
+    "start_time": 76.288,
+    "end_time": 76.389,
+    "speaker": null
+  },
+  {
+    "word": "it's",
+    "start_char": 1368,
+    "end_char": 1372,
+    "start_time": 76.429,
+    "end_time": 76.509,
+    "speaker": null
+  },
+  {
+    "word": "a",
+    "start_char": 1373,
+    "end_char": 1374,
+    "start_time": 76.549,
+    "end_time": 76.569,
+    "speaker": null
+  },
+  {
+    "word": "real",
+    "start_char": 1375,
+    "end_char": 1379,
+    "start_time": 76.589,
+    "end_time": 76.809,
+    "speaker": null
+  },
+  {
+    "word": "sea",
+    "start_char": 1380,
+    "end_char": 1383,
+    "start_time": 76.869,
+    "end_time": 77.089,
+    "speaker": null
+  },
+  {
+    "word": "change.",
+    "start_char": 1384,
+    "end_char": 1391,
+    "start_time": 77.129,
+    "end_time": 77.71,
+    "speaker": null
+  },
+  {
+    "word": "But",
+    "start_char": 1392,
+    "end_char": 1395,
+    "start_time": 77.69,
+    "end_time": 78.01,
+    "speaker": null
+  },
+  {
+    "word": "one",
+    "start_char": 1396,
+    "end_char": 1399,
+    "start_time": 78.171,
+    "end_time": 78.271,
+    "speaker": null
+  },
+  {
+    "word": "of",
+    "start_char": 1400,
+    "end_char": 1402,
+    "start_time": 78.331,
+    "end_time": 78.371,
+    "speaker": null
+  },
+  {
+    "word": "the",
+    "start_char": 1403,
+    "end_char": 1406,
+    "start_time": 78.431,
+    "end_time": 78.651,
+    "speaker": null
+  },
+  {
+    "word": "key",
+    "start_char": 1407,
+    "end_char": 1410,
+    "start_time": 79.012,
+    "end_time": 79.212,
+    "speaker": null
+  },
+  {
+    "word": "players",
+    "start_char": 1411,
+    "end_char": 1418,
+    "start_time": 79.232,
+    "end_time": 79.512,
+    "speaker": null
+  },
+  {
+    "word": "going",
+    "start_char": 1419,
+    "end_char": 1424,
+    "start_time": 79.552,
+    "end_time": 79.813,
+    "speaker": null
+  },
+  {
+    "word": "was",
+    "start_char": 1425,
+    "end_char": 1428,
+    "start_time": 79.853,
+    "end_time": 79.953,
+    "speaker": null
+  },
+  {
+    "word": "Greenwich",
+    "start_char": 1429,
+    "end_char": 1438,
+    "start_time": 80.073,
+    "end_time": 80.393,
+    "speaker": null
+  },
+  {
+    "word": "Acro,",
+    "start_char": 1439,
+    "end_char": 1444,
+    "start_time": 80.413,
+    "end_time": 80.634,
+    "speaker": null
+  },
+  {
+    "word": "of",
+    "start_char": 1445,
+    "end_char": 1447,
+    "start_time": 80.674,
+    "end_time": 80.714,
+    "speaker": null
+  },
+  {
+    "word": "course,",
+    "start_char": 1448,
+    "end_char": 1455,
+    "start_time": 80.774,
+    "end_time": 81.014,
+    "speaker": null
+  },
+  {
+    "word": "who",
+    "start_char": 1456,
+    "end_char": 1459,
+    "start_time": 81.034,
+    "end_time": 81.154,
+    "speaker": null
+  },
+  {
+    "word": "was",
+    "start_char": 1460,
+    "end_char": 1463,
+    "start_time": 81.174,
+    "end_time": 81.274,
+    "speaker": null
+  },
+  {
+    "word": "the",
+    "start_char": 1464,
+    "end_char": 1467,
+    "start_time": 81.314,
+    "end_time": 81.414,
+    "speaker": null
+  },
+  {
+    "word": "chief",
+    "start_char": 1468,
+    "end_char": 1473,
+    "start_time": 81.855,
+    "end_time": 82.075,
+    "speaker": null
+  },
+  {
+    "word": "lieutenant",
+    "start_char": 1474,
+    "end_char": 1484,
+    "start_time": 82.115,
+    "end_time": 82.596,
+    "speaker": null
+  },
+  {
+    "word": "of",
+    "start_char": 1485,
+    "end_char": 1487,
+    "start_time": 82.996,
+    "end_time": 83.076,
+    "speaker": null
+  },
+  {
+    "word": "on",
+    "start_char": 1488,
+    "end_char": 1490,
+    "start_time": 83.577,
+    "end_time": 83.757,
+    "speaker": null
+  },
+  {
+    "word": "pitch",
+    "start_char": 1491,
+    "end_char": 1496,
+    "start_time": 83.777,
+    "end_time": 84.098,
+    "speaker": null
+  },
+  {
+    "word": "of",
+    "start_char": 1497,
+    "end_char": 1499,
+    "start_time": 84.158,
+    "end_time": 84.218,
+    "speaker": null
+  },
+  {
+    "word": "Javier",
+    "start_char": 1500,
+    "end_char": 1506,
+    "start_time": 84.278,
+    "end_time": 84.658,
+    "speaker": null
+  },
+  {
+    "word": "Lanzo.",
+    "start_char": 1507,
+    "end_char": 1513,
+    "start_time": 84.678,
+    "end_time": 85.099,
+    "speaker": null
+  },
+  {
+    "word": "But",
+    "start_char": 1514,
+    "end_char": 1517,
+    "start_time": 85.519,
+    "end_time": 85.66,
+    "speaker": null
+  },
+  {
+    "word": "they",
+    "start_char": 1518,
+    "end_char": 1522,
+    "start_time": 85.78,
+    "end_time": 86.06,
+    "speaker": null
+  },
+  {
+    "word": "felt",
+    "start_char": 1523,
+    "end_char": 1527,
+    "start_time": 86.1,
+    "end_time": 86.26,
+    "speaker": null
+  },
+  {
+    "word": "that",
+    "start_char": 1528,
+    "end_char": 1532,
+    "start_time": 86.32,
+    "end_time": 86.42,
+    "speaker": null
+  },
+  {
+    "word": "he",
+    "start_char": 1533,
+    "end_char": 1535,
+    "start_time": 86.44,
+    "end_time": 86.501,
+    "speaker": null
+  },
+  {
+    "word": "didn't",
+    "start_char": 1536,
+    "end_char": 1542,
+    "start_time": 86.541,
+    "end_time": 86.701,
+    "speaker": null
+  },
+  {
+    "word": "really",
+    "start_char": 1543,
+    "end_char": 1549,
+    "start_time": 86.781,
+    "end_time": 87.001,
+    "speaker": null
+  },
+  {
+    "word": "make",
+    "start_char": 1550,
+    "end_char": 1554,
+    "start_time": 87.061,
+    "end_time": 87.201,
+    "speaker": null
+  },
+  {
+    "word": "much",
+    "start_char": 1555,
+    "end_char": 1559,
+    "start_time": 87.281,
+    "end_time": 87.442,
+    "speaker": null
+  },
+  {
+    "word": "sense",
+    "start_char": 1560,
+    "end_char": 1565,
+    "start_time": 87.482,
+    "end_time": 87.762,
+    "speaker": null
+  },
+  {
+    "word": "in",
+    "start_char": 1566,
+    "end_char": 1568,
+    "start_time": 88.143,
+    "end_time": 88.203,
+    "speaker": null
+  },
+  {
+    "word": "a",
+    "start_char": 1569,
+    "end_char": 1570,
+    "start_time": 88.263,
+    "end_time": 88.283,
+    "speaker": null
+  },
+  {
+    "word": "post",
+    "start_char": 1571,
+    "end_char": 1575,
+    "start_time": 88.343,
+    "end_time": 88.563,
+    "speaker": null
+  },
+  {
+    "word": "Javier",
+    "start_char": 1576,
+    "end_char": 1582,
+    "start_time": 88.583,
+    "end_time": 88.843,
+    "speaker": null
+  },
+  {
+    "word": "Lanzo",
+    "start_char": 1583,
+    "end_char": 1588,
+    "start_time": 88.863,
+    "end_time": 89.164,
+    "speaker": null
+  },
+  {
+    "word": "world.",
+    "start_char": 1589,
+    "end_char": 1595,
+    "start_time": 89.204,
+    "end_time": 89.444,
+    "speaker": null
+  },
+  {
+    "word": "They",
+    "start_char": 1596,
+    "end_char": 1600,
+    "start_time": 89.464,
+    "end_time": 89.584,
+    "speaker": null
+  },
+  {
+    "word": "could",
+    "start_char": 1601,
+    "end_char": 1606,
+    "start_time": 89.624,
+    "end_time": 89.764,
+    "speaker": null
+  },
+  {
+    "word": "get",
+    "start_char": 1607,
+    "end_char": 1610,
+    "start_time": 90.085,
+    "end_time": 90.225,
+    "speaker": null
+  },
+  {
+    "word": "out",
+    "start_char": 1611,
+    "end_char": 1614,
+    "start_time": 90.305,
+    "end_time": 90.405,
+    "speaker": null
+  },
+  {
+    "word": "from",
+    "start_char": 1615,
+    "end_char": 1619,
+    "start_time": 90.445,
+    "end_time": 90.545,
+    "speaker": null
+  },
+  {
+    "word": "under",
+    "start_char": 1620,
+    "end_char": 1625,
+    "start_time": 90.605,
+    "end_time": 90.726,
+    "speaker": null
+  },
+  {
+    "word": "the",
+    "start_char": 1626,
+    "end_char": 1629,
+    "start_time": 90.766,
+    "end_time": 90.826,
+    "speaker": null
+  },
+  {
+    "word": "rest",
+    "start_char": 1630,
+    "end_char": 1634,
+    "start_time": 90.886,
+    "end_time": 91.026,
+    "speaker": null
+  },
+  {
+    "word": "of",
+    "start_char": 1635,
+    "end_char": 1637,
+    "start_time": 91.066,
+    "end_time": 91.106,
+    "speaker": null
+  },
+  {
+    "word": "his",
+    "start_char": 1638,
+    "end_char": 1641,
+    "start_time": 91.146,
+    "end_time": 91.226,
+    "speaker": null
+  },
+  {
+    "word": "expensive",
+    "start_char": 1642,
+    "end_char": 1651,
+    "start_time": 91.286,
+    "end_time": 91.767,
+    "speaker": null
+  },
+  {
+    "word": "contract,",
+    "start_char": 1652,
+    "end_char": 1661,
+    "start_time": 91.827,
+    "end_time": 92.267,
+    "speaker": null
+  },
+  {
+    "word": "make",
+    "start_char": 1662,
+    "end_char": 1666,
+    "start_time": 92.287,
+    "end_time": 92.448,
+    "speaker": null
+  },
+  {
+    "word": "some",
+    "start_char": 1667,
+    "end_char": 1671,
+    "start_time": 92.468,
+    "end_time": 92.548,
+    "speaker": null
+  },
+  {
+    "word": "money",
+    "start_char": 1672,
+    "end_char": 1677,
+    "start_time": 92.588,
+    "end_time": 92.768,
+    "speaker": null
+  },
+  {
+    "word": "with",
+    "start_char": 1678,
+    "end_char": 1682,
+    "start_time": 92.828,
+    "end_time": 92.948,
+    "speaker": null
+  },
+  {
+    "word": "him,",
+    "start_char": 1683,
+    "end_char": 1687,
+    "start_time": 93.008,
+    "end_time": 93.108,
+    "speaker": null
+  },
+  {
+    "word": "and",
+    "start_char": 1688,
+    "end_char": 1691,
+    "start_time": 93.649,
+    "end_time": 93.769,
+    "speaker": null
+  },
+  {
+    "word": "the",
+    "start_char": 1692,
+    "end_char": 1695,
+    "start_time": 93.789,
+    "end_time": 94.21,
+    "speaker": null
+  },
+  {
+    "word": "CEO,",
+    "start_char": 1696,
+    "end_char": 1700,
+    "start_time": 94.65,
+    "end_time": 95.171,
+    "speaker": null
+  },
+  {
+    "word": "Fernando",
+    "start_char": 1701,
+    "end_char": 1709,
+    "start_time": 95.191,
+    "end_time": 95.531,
+    "speaker": null
+  },
+  {
+    "word": "Cattle,",
+    "start_char": 1710,
+    "end_char": 1717,
+    "start_time": 95.571,
+    "end_time": 96.212,
+    "speaker": null
+  },
+  {
+    "word": "and",
+    "start_char": 1718,
+    "end_char": 1721,
+    "start_time": 96.232,
+    "end_time": 96.352,
+    "speaker": null
+  },
+  {
+    "word": "Rolf",
+    "start_char": 1722,
+    "end_char": 1726,
+    "start_time": 96.392,
+    "end_time": 96.613,
+    "speaker": null
+  },
+  {
+    "word": "is",
+    "start_char": 1727,
+    "end_char": 1729,
+    "start_time": 96.633,
+    "end_time": 96.713,
+    "speaker": null
+  },
+  {
+    "word": "the",
+    "start_char": 1730,
+    "end_char": 1733,
+    "start_time": 96.753,
+    "end_time": 96.813,
+    "speaker": null
+  },
+  {
+    "word": "sporting",
+    "start_char": 1734,
+    "end_char": 1742,
+    "start_time": 96.853,
+    "end_time": 97.153,
+    "speaker": null
+  },
+  {
+    "word": "director.",
+    "start_char": 1743,
+    "end_char": 1752,
+    "start_time": 97.193,
+    "end_time": 97.554,
+    "speaker": null
+  },
+  {
+    "word": "They",
+    "start_char": 1753,
+    "end_char": 1757,
+    "start_time": 97.574,
+    "end_time": 97.694,
+    "speaker": null
+  },
+  {
+    "word": "signed",
+    "start_char": 1758,
+    "end_char": 1764,
+    "start_time": 97.734,
+    "end_time": 97.954,
+    "speaker": null
+  },
+  {
+    "word": "this",
+    "start_char": 1765,
+    "end_char": 1769,
+    "start_time": 97.974,
+    "end_time": 98.094,
+    "speaker": null
+  },
+  {
+    "word": "off",
+    "start_char": 1770,
+    "end_char": 1773,
+    "start_time": 98.154,
+    "end_time": 98.255,
+    "speaker": null
+  },
+  {
+    "word": "with",
+    "start_char": 1774,
+    "end_char": 1778,
+    "start_time": 98.275,
+    "end_time": 98.395,
+    "speaker": null
+  },
+  {
+    "word": "Ten",
+    "start_char": 1779,
+    "end_char": 1782,
+    "start_time": 98.415,
+    "end_time": 98.615,
+    "speaker": null
+  },
+  {
+    "word": "Harc,",
+    "start_char": 1783,
+    "end_char": 1788,
+    "start_time": 98.635,
+    "end_time": 98.875,
+    "speaker": null
+  },
+  {
+    "word": "and",
+    "start_char": 1789,
+    "end_char": 1792,
+    "start_time": 98.895,
+    "end_time": 98.955,
+    "speaker": null
+  },
+  {
+    "word": "then",
+    "start_char": 1793,
+    "end_char": 1797,
+    "start_time": 98.995,
+    "end_time": 99.116,
+    "speaker": null
+  },
+  {
+    "word": "Ten",
+    "start_char": 1798,
+    "end_char": 1801,
+    "start_time": 99.156,
+    "end_time": 99.336,
+    "speaker": null
+  },
+  {
+    "word": "Harc",
+    "start_char": 1802,
+    "end_char": 1806,
+    "start_time": 99.376,
+    "end_time": 99.576,
+    "speaker": null
+  },
+  {
+    "word": "goes",
+    "start_char": 1807,
+    "end_char": 1811,
+    "start_time": 99.596,
+    "end_time": 99.796,
+    "speaker": null
+  },
+  {
+    "word": "public",
+    "start_char": 1812,
+    "end_char": 1818,
+    "start_time": 99.857,
+    "end_time": 100.117,
+    "speaker": null
+  },
+  {
+    "word": "and",
+    "start_char": 1819,
+    "end_char": 1822,
+    "start_time": 100.177,
+    "end_time": 100.237,
+    "speaker": null
+  },
+  {
+    "word": "says,",
+    "start_char": 1823,
+    "end_char": 1828,
+    "start_time": 100.277,
+    "end_time": 100.417,
+    "speaker": null
+  },
+  {
+    "word": "I",
+    "start_char": 1829,
+    "end_char": 1830,
+    "start_time": 100.838,
+    "end_time": 100.878,
+    "speaker": null
+  },
+  {
+    "word": "don't",
+    "start_char": 1831,
+    "end_char": 1836,
+    "start_time": 100.918,
+    "end_time": 101.058,
+    "speaker": null
+  },
+  {
+    "word": "think",
+    "start_char": 1837,
+    "end_char": 1842,
+    "start_time": 101.078,
+    "end_time": 101.218,
+    "speaker": null
+  },
+  {
+    "word": "we",
+    "start_char": 1843,
+    "end_char": 1845,
+    "start_time": 101.238,
+    "end_time": 101.298,
+    "speaker": null
+  },
+  {
+    "word": "should",
+    "start_char": 1846,
+    "end_char": 1852,
+    "start_time": 101.338,
+    "end_time": 101.478,
+    "speaker": null
+  },
+  {
+    "word": "tell",
+    "start_char": 1853,
+    "end_char": 1857,
+    "start_time": 101.498,
+    "end_time": 101.659,
+    "speaker": null
+  },
+  {
+    "word": "him.",
+    "start_char": 1858,
+    "end_char": 1862,
+    "start_time": 101.699,
+    "end_time": 101.959,
+    "speaker": null
+  },
+  {
+    "word": "I'm",
+    "start_char": 1863,
+    "end_char": 1866,
+    "start_time": 102.918,
+    "end_time": 103.138,
+    "speaker": null
+  },
+  {
+    "word": "pretty",
+    "start_char": 1867,
+    "end_char": 1873,
+    "start_time": 103.178,
+    "end_time": 103.359,
+    "speaker": null
+  },
+  {
+    "word": "sure",
+    "start_char": 1874,
+    "end_char": 1878,
+    "start_time": 103.399,
+    "end_time": 103.539,
+    "speaker": null
+  },
+  {
+    "word": "that's",
+    "start_char": 1879,
+    "end_char": 1885,
+    "start_time": 103.559,
+    "end_time": 103.719,
+    "speaker": null
+  },
+  {
+    "word": "not",
+    "start_char": 1886,
+    "end_char": 1889,
+    "start_time": 103.759,
+    "end_time": 103.819,
+    "speaker": null
+  },
+  {
+    "word": "the",
+    "start_char": 1890,
+    "end_char": 1893,
+    "start_time": 103.859,
+    "end_time": 103.939,
+    "speaker": null
+  },
+  {
+    "word": "conversation",
+    "start_char": 1894,
+    "end_char": 1906,
+    "start_time": 103.98,
+    "end_time": 104.4,
+    "speaker": null
+  },
+  {
+    "word": "we",
+    "start_char": 1907,
+    "end_char": 1909,
+    "start_time": 104.42,
+    "end_time": 104.52,
+    "speaker": null
+  },
+  {
+    "word": "had",
+    "start_char": 1910,
+    "end_char": 1913,
+    "start_time": 104.54,
+    "end_time": 104.64,
+    "speaker": null
+  },
+  {
+    "word": "two",
+    "start_char": 1914,
+    "end_char": 1917,
+    "start_time": 104.681,
+    "end_time": 104.841,
+    "speaker": null
+  },
+  {
+    "word": "days",
+    "start_char": 1918,
+    "end_char": 1922,
+    "start_time": 104.881,
+    "end_time": 105.081,
+    "speaker": null
+  },
+  {
+    "word": "ago.",
+    "start_char": 1923,
+    "end_char": 1927,
+    "start_time": 105.161,
+    "end_time": 105.341,
+    "speaker": null
+  },
+  {
+    "word": "And",
+    "start_char": 1928,
+    "end_char": 1931,
+    "start_time": 105.382,
+    "end_time": 106.002,
+    "speaker": null
+  },
+  {
+    "word": "this",
+    "start_char": 1932,
+    "end_char": 1936,
+    "start_time": 106.042,
+    "end_time": 106.203,
+    "speaker": null
+  },
+  {
+    "word": "was",
+    "start_char": 1937,
+    "end_char": 1940,
+    "start_time": 106.263,
+    "end_time": 106.383,
+    "speaker": null
+  },
+  {
+    "word": "one",
+    "start_char": 1941,
+    "end_char": 1944,
+    "start_time": 106.543,
+    "end_time": 106.643,
+    "speaker": null
+  },
+  {
+    "word": "of",
+    "start_char": 1945,
+    "end_char": 1947,
+    "start_time": 106.683,
+    "end_time": 106.824,
+    "speaker": null
+  },
+  {
+    "word": "a",
+    "start_char": 1948,
+    "end_char": 1949,
+    "start_time": 106.884,
+    "end_time": 106.904,
+    "speaker": null
+  },
+  {
+    "word": "series",
+    "start_char": 1950,
+    "end_char": 1956,
+    "start_time": 107.064,
+    "end_time": 107.465,
+    "speaker": null
+  },
+  {
+    "word": "of",
+    "start_char": 1957,
+    "end_char": 1959,
+    "start_time": 107.505,
+    "end_time": 107.545,
+    "speaker": null
+  },
+  {
+    "word": "things",
+    "start_char": 1960,
+    "end_char": 1966,
+    "start_time": 107.585,
+    "end_time": 107.945,
+    "speaker": null
+  },
+  {
+    "word": "that",
+    "start_char": 1967,
+    "end_char": 1971,
+    "start_time": 108.005,
+    "end_time": 108.125,
+    "speaker": null
+  },
+  {
+    "word": "really",
+    "start_char": 1972,
+    "end_char": 1978,
+    "start_time": 108.306,
+    "end_time": 108.706,
+    "speaker": null
+  },
+  {
+    "word": "set",
+    "start_char": 1979,
+    "end_char": 1982,
+    "start_time": 109.187,
+    "end_time": 109.367,
+    "speaker": null
+  },
+  {
+    "word": "them",
+    "start_char": 1983,
+    "end_char": 1987,
+    "start_time": 109.387,
+    "end_time": 109.528,
+    "speaker": null
+  },
+  {
+    "word": "on",
+    "start_char": 1988,
+    "end_char": 1990,
+    "start_time": 109.588,
+    "end_time": 109.668,
+    "speaker": null
+  },
+  {
+    "word": "edge.",
+    "start_char": 1991,
+    "end_char": 1996,
+    "start_time": 109.788,
+    "end_time": 109.948,
+    "speaker": null
+  },
+  {
+    "word": "And",
+    "start_char": 1997,
+    "end_char": 2000,
+    "start_time": 110.329,
+    "end_time": 110.409,
+    "speaker": null
+  },
+  {
+    "word": "then",
+    "start_char": 2001,
+    "end_char": 2005,
+    "start_time": 110.489,
+    "end_time": 110.709,
+    "speaker": null
+  },
+  {
+    "word": "you",
+    "start_char": 2006,
+    "end_char": 2009,
+    "start_time": 110.769,
+    "end_time": 110.849,
+    "speaker": null
+  },
+  {
+    "word": "could",
+    "start_char": 2010,
+    "end_char": 2015,
+    "start_time": 110.889,
+    "end_time": 111.01,
+    "speaker": null
+  },
+  {
+    "word": "tell",
+    "start_char": 2016,
+    "end_char": 2020,
+    "start_time": 111.05,
+    "end_time": 111.21,
+    "speaker": null
+  },
+  {
+    "word": "in",
+    "start_char": 2021,
+    "end_char": 2023,
+    "start_time": 111.25,
+    "end_time": 111.31,
+    "speaker": null
+  },
+  {
+    "word": "the",
+    "start_char": 2024,
+    "end_char": 2027,
+    "start_time": 111.35,
+    "end_time": 111.41,
+    "speaker": null
+  },
+  {
+    "word": "first",
+    "start_char": 2028,
+    "end_char": 2033,
+    "start_time": 111.51,
+    "end_time": 111.771,
+    "speaker": null
+  },
+  {
+    "word": "couple",
+    "start_char": 2034,
+    "end_char": 2040,
+    "start_time": 111.831,
+    "end_time": 112.031,
+    "speaker": null
+  },
+  {
+    "word": "of",
+    "start_char": 2041,
+    "end_char": 2043,
+    "start_time": 112.051,
+    "end_time": 112.091,
+    "speaker": null
+  },
+  {
+    "word": "games,",
+    "start_char": 2044,
+    "end_char": 2050,
+    "start_time": 112.151,
+    "end_time": 112.492,
+    "speaker": null
+  },
+  {
+    "word": "not",
+    "start_char": 2051,
+    "end_char": 2054,
+    "start_time": 112.812,
+    "end_time": 112.932,
+    "speaker": null
+  },
+  {
+    "word": "only",
+    "start_char": 2055,
+    "end_char": 2059,
+    "start_time": 113.013,
+    "end_time": 113.133,
+    "speaker": null
+  },
+  {
+    "word": "were",
+    "start_char": 2060,
+    "end_char": 2064,
+    "start_time": 113.193,
+    "end_time": 113.293,
+    "speaker": null
+  },
+  {
+    "word": "the",
+    "start_char": 2065,
+    "end_char": 2068,
+    "start_time": 113.313,
+    "end_time": 113.393,
+    "speaker": null
+  },
+  {
+    "word": "performances",
+    "start_char": 2069,
+    "end_char": 2081,
+    "start_time": 113.433,
+    "end_time": 114.114,
+    "speaker": null
+  },
+  {
+    "word": "poor,",
+    "start_char": 2082,
+    "end_char": 2087,
+    "start_time": 114.174,
+    "end_time": 114.455,
+    "speaker": null
+  },
+  {
+    "word": "not",
+    "start_char": 2088,
+    "end_char": 2091,
+    "start_time": 114.535,
+    "end_time": 114.655,
+    "speaker": null
+  },
+  {
+    "word": "only",
+    "start_char": 2092,
+    "end_char": 2096,
+    "start_time": 114.755,
+    "end_time": 114.955,
+    "speaker": null
+  },
+  {
+    "word": "did",
+    "start_char": 2097,
+    "end_char": 2100,
+    "start_time": 115.035,
+    "end_time": 115.176,
+    "speaker": null
+  },
+  {
+    "word": "the",
+    "start_char": 2101,
+    "end_char": 2104,
+    "start_time": 115.196,
+    "end_time": 115.276,
+    "speaker": null
+  },
+  {
+    "word": "team",
+    "start_char": 2105,
+    "end_char": 2109,
+    "start_time": 115.356,
+    "end_time": 115.636,
+    "speaker": null
+  },
+  {
+    "word": "look",
+    "start_char": 2110,
+    "end_char": 2114,
+    "start_time": 115.676,
+    "end_time": 115.877,
+    "speaker": null
+  },
+  {
+    "word": "really",
+    "start_char": 2115,
+    "end_char": 2121,
+    "start_time": 115.897,
+    "end_time": 116.738,
+    "speaker": null
+  },
+  {
+    "word": "untrained,",
+    "start_char": 2122,
+    "end_char": 2132,
+    "start_time": 117.239,
+    "end_time": 117.9,
+    "speaker": null
+  },
+  {
+    "word": "but",
+    "start_char": 2133,
+    "end_char": 2136,
+    "start_time": 118.3,
+    "end_time": 118.4,
+    "speaker": null
+  },
+  {
+    "word": "it",
+    "start_char": 2137,
+    "end_char": 2139,
+    "start_time": 118.44,
+    "end_time": 118.48,
+    "speaker": null
+  },
+  {
+    "word": "was",
+    "start_char": 2140,
+    "end_char": 2143,
+    "start_time": 118.52,
+    "end_time": 118.601,
+    "speaker": null
+  },
+  {
+    "word": "the",
+    "start_char": 2144,
+    "end_char": 2147,
+    "start_time": 118.641,
+    "end_time": 118.701,
+    "speaker": null
+  },
+  {
+    "word": "fact",
+    "start_char": 2148,
+    "end_char": 2152,
+    "start_time": 118.761,
+    "end_time": 118.901,
+    "speaker": null
+  },
+  {
+    "word": "that",
+    "start_char": 2153,
+    "end_char": 2157,
+    "start_time": 118.941,
+    "end_time": 119.041,
+    "speaker": null
+  },
+  {
+    "word": "Mark",
+    "start_char": 2158,
+    "end_char": 2162,
+    "start_time": 119.081,
+    "end_time": 119.302,
+    "speaker": null
+  },
+  {
+    "word": "Fleckner",
+    "start_char": 2163,
+    "end_char": 2171,
+    "start_time": 119.342,
+    "end_time": 119.722,
+    "speaker": null
+  },
+  {
+    "word": "of",
+    "start_char": 2172,
+    "end_char": 2174,
+    "start_time": 119.762,
+    "end_time": 119.802,
+    "speaker": null
+  },
+  {
+    "word": "course",
+    "start_char": 2175,
+    "end_char": 2181,
+    "start_time": 119.862,
+    "end_time": 120.043,
+    "speaker": null
+  },
+  {
+    "word": "has",
+    "start_char": 2182,
+    "end_char": 2185,
+    "start_time": 120.083,
+    "end_time": 120.163,
+    "speaker": null
+  },
+  {
+    "word": "just",
+    "start_char": 2186,
+    "end_char": 2190,
+    "start_time": 120.203,
+    "end_time": 120.363,
+    "speaker": null
+  },
+  {
+    "word": "joined",
+    "start_char": 2191,
+    "end_char": 2197,
+    "start_time": 120.443,
+    "end_time": 120.764,
+    "speaker": null
+  },
+  {
+    "word": "from",
+    "start_char": 2198,
+    "end_char": 2202,
+    "start_time": 120.844,
+    "end_time": 121.004,
+    "speaker": null
+  },
+  {
+    "word": "Brentford",
+    "start_char": 2203,
+    "end_char": 2212,
+    "start_time": 121.565,
+    "end_time": 122.046,
+    "speaker": null
+  },
+  {
+    "word": "after",
+    "start_char": 2213,
+    "end_char": 2218,
+    "start_time": 122.366,
+    "end_time": 122.526,
+    "speaker": null
+  },
+  {
+    "word": "the",
+    "start_char": 2219,
+    "end_char": 2222,
+    "start_time": 122.546,
+    "end_time": 122.626,
+    "speaker": null
+  },
+  {
+    "word": "first",
+    "start_char": 2223,
+    "end_char": 2228,
+    "start_time": 122.686,
+    "end_time": 122.887,
+    "speaker": null
+  },
+  {
+    "word": "game",
+    "start_char": 2229,
+    "end_char": 2233,
+    "start_time": 122.927,
+    "end_time": 123.067,
+    "speaker": null
+  },
+  {
+    "word": "where",
+    "start_char": 2234,
+    "end_char": 2239,
+    "start_time": 123.087,
+    "end_time": 123.187,
+    "speaker": null
+  },
+  {
+    "word": "they",
+    "start_char": 2240,
+    "end_char": 2244,
+    "start_time": 123.207,
+    "end_time": 123.287,
+    "speaker": null
+  },
+  {
+    "word": "lost",
+    "start_char": 2245,
+    "end_char": 2249,
+    "start_time": 123.307,
+    "end_time": 123.428,
+    "speaker": null
+  },
+  {
+    "word": "at",
+    "start_char": 2250,
+    "end_char": 2252,
+    "start_time": 123.488,
+    "end_time": 123.528,
+    "speaker": null
+  },
+  {
+    "word": "home",
+    "start_char": 2253,
+    "end_char": 2257,
+    "start_time": 123.588,
+    "end_time": 123.728,
+    "speaker": null
+  },
+  {
+    "word": "to",
+    "start_char": 2258,
+    "end_char": 2260,
+    "start_time": 123.768,
+    "end_time": 123.828,
+    "speaker": null
+  },
+  {
+    "word": "Hoffenheim.",
+    "start_char": 2261,
+    "end_char": 2272,
+    "start_time": 123.868,
+    "end_time": 124.409,
+    "speaker": null
+  },
+  {
+    "word": "He",
+    "start_char": 2273,
+    "end_char": 2275,
+    "start_time": 124.749,
+    "end_time": 124.85,
+    "speaker": null
+  },
+  {
+    "word": "was",
+    "start_char": 2276,
+    "end_char": 2279,
+    "start_time": 124.89,
+    "end_time": 124.99,
+    "speaker": null
+  },
+  {
+    "word": "happy",
+    "start_char": 2280,
+    "end_char": 2285,
+    "start_time": 125.01,
+    "end_time": 125.35,
+    "speaker": null
+  },
+  {
+    "word": "to",
+    "start_char": 2286,
+    "end_char": 2288,
+    "start_time": 125.39,
+    "end_time": 125.511,
+    "speaker": null
+  },
+  {
+    "word": "like",
+    "start_char": 2289,
+    "end_char": 2293,
+    "start_time": 125.571,
+    "end_time": 125.751,
+    "speaker": null
+  },
+  {
+    "word": "tear",
+    "start_char": 2294,
+    "end_char": 2298,
+    "start_time": 125.811,
+    "end_time": 126.051,
+    "speaker": null
+  },
+  {
+    "word": "the",
+    "start_char": 2299,
+    "end_char": 2302,
+    "start_time": 126.071,
+    "end_time": 126.151,
+    "speaker": null
+  },
+  {
+    "word": "team's",
+    "start_char": 2303,
+    "end_char": 2309,
+    "start_time": 126.191,
+    "end_time": 126.392,
+    "speaker": null
+  },
+  {
+    "word": "performance",
+    "start_char": 2310,
+    "end_char": 2321,
+    "start_time": 126.512,
+    "end_time": 126.933,
+    "speaker": null
+  },
+  {
+    "word": "to",
+    "start_char": 2322,
+    "end_char": 2324,
+    "start_time": 126.973,
+    "end_time": 127.033,
+    "speaker": null
+  },
+  {
+    "word": "bits",
+    "start_char": 2325,
+    "end_char": 2329,
+    "start_time": 127.113,
+    "end_time": 127.333,
+    "speaker": null
+  },
+  {
+    "word": "in",
+    "start_char": 2330,
+    "end_char": 2332,
+    "start_time": 127.373,
+    "end_time": 127.433,
+    "speaker": null
+  },
+  {
+    "word": "front",
+    "start_char": 2333,
+    "end_char": 2338,
+    "start_time": 127.473,
+    "end_time": 127.594,
+    "speaker": null
+  },
+  {
+    "word": "of",
+    "start_char": 2339,
+    "end_char": 2341,
+    "start_time": 127.634,
+    "end_time": 127.694,
+    "speaker": null
+  },
+  {
+    "word": "journalists.",
+    "start_char": 2342,
+    "end_char": 2354,
+    "start_time": 127.734,
+    "end_time": 128.655,
+    "speaker": null
+  },
+  {
+    "word": "Well,",
+    "start_char": 2355,
+    "end_char": 2360,
+    "start_time": 128.635,
+    "end_time": 129.136,
+    "speaker": null
+  },
+  {
+    "word": "if",
+    "start_char": 2361,
+    "end_char": 2363,
+    "start_time": 129.376,
+    "end_time": 129.456,
+    "speaker": null
+  },
+  {
+    "word": "Tenharg",
+    "start_char": 2364,
+    "end_char": 2371,
+    "start_time": 129.476,
+    "end_time": 129.957,
+    "speaker": null
+  },
+  {
+    "word": "really",
+    "start_char": 2372,
+    "end_char": 2378,
+    "start_time": 130.137,
+    "end_time": 130.438,
+    "speaker": null
+  },
+  {
+    "word": "had",
+    "start_char": 2379,
+    "end_char": 2382,
+    "start_time": 130.498,
+    "end_time": 130.618,
+    "speaker": null
+  },
+  {
+    "word": "authority",
+    "start_char": 2383,
+    "end_char": 2392,
+    "start_time": 130.658,
+    "end_time": 131.299,
+    "speaker": null
+  },
+  {
+    "word": "here,",
+    "start_char": 2393,
+    "end_char": 2398,
+    "start_time": 131.359,
+    "end_time": 131.559,
+    "speaker": null
+  },
+  {
+    "word": "that",
+    "start_char": 2399,
+    "end_char": 2403,
+    "start_time": 132.08,
+    "end_time": 132.2,
+    "speaker": null
+  },
+  {
+    "word": "wouldn't",
+    "start_char": 2404,
+    "end_char": 2412,
+    "start_time": 132.24,
+    "end_time": 132.44,
+    "speaker": null
+  },
+  {
+    "word": "happen.",
+    "start_char": 2413,
+    "end_char": 2420,
+    "start_time": 132.52,
+    "end_time": 132.761,
+    "speaker": null
+  },
+  {
+    "word": "You",
+    "start_char": 2421,
+    "end_char": 2424,
+    "start_time": 132.821,
+    "end_time": 132.921,
+    "speaker": null
+  },
+  {
+    "word": "had",
+    "start_char": 2425,
+    "end_char": 2428,
+    "start_time": 132.981,
+    "end_time": 133.061,
+    "speaker": null
+  },
+  {
+    "word": "an",
+    "start_char": 2429,
+    "end_char": 2431,
+    "start_time": 133.081,
+    "end_time": 133.141,
+    "speaker": null
+  },
+  {
+    "word": "argument",
+    "start_char": 2432,
+    "end_char": 2440,
+    "start_time": 133.221,
+    "end_time": 133.522,
+    "speaker": null
+  },
+  {
+    "word": "over",
+    "start_char": 2441,
+    "end_char": 2445,
+    "start_time": 133.622,
+    "end_time": 133.762,
+    "speaker": null
+  },
+  {
+    "word": "who",
+    "start_char": 2446,
+    "end_char": 2449,
+    "start_time": 133.802,
+    "end_time": 133.922,
+    "speaker": null
+  },
+  {
+    "word": "was",
+    "start_char": 2450,
+    "end_char": 2453,
+    "start_time": 133.963,
+    "end_time": 134.043,
+    "speaker": null
+  },
+  {
+    "word": "taking",
+    "start_char": 2454,
+    "end_char": 2460,
+    "start_time": 134.103,
+    "end_time": 134.363,
+    "speaker": null
+  },
+  {
+    "word": "a",
+    "start_char": 2461,
+    "end_char": 2462,
+    "start_time": 134.403,
+    "end_time": 134.423,
+    "speaker": null
+  },
+  {
+    "word": "penalty",
+    "start_char": 2463,
+    "end_char": 2470,
+    "start_time": 134.483,
+    "end_time": 135.004,
+    "speaker": null
+  },
+  {
+    "word": "at",
+    "start_char": 2471,
+    "end_char": 2473,
+    "start_time": 135.044,
+    "end_time": 135.124,
+    "speaker": null
+  },
+  {
+    "word": "the",
+    "start_char": 2474,
+    "end_char": 2477,
+    "start_time": 135.164,
+    "end_time": 135.765,
+    "speaker": null
+  },
+  {
+    "word": "weekend",
+    "start_char": 2478,
+    "end_char": 2485,
+    "start_time": 135.805,
+    "end_time": 136.186,
+    "speaker": null
+  },
+  {
+    "word": "and",
+    "start_char": 2486,
+    "end_char": 2489,
+    "start_time": 136.226,
+    "end_time": 136.286,
+    "speaker": null
+  },
+  {
+    "word": "the",
+    "start_char": 2490,
+    "end_char": 2493,
+    "start_time": 136.306,
+    "end_time": 136.366,
+    "speaker": null
+  },
+  {
+    "word": "captain",
+    "start_char": 2494,
+    "end_char": 2501,
+    "start_time": 136.406,
+    "end_time": 136.807,
+    "speaker": null
+  },
+  {
+    "word": "had",
+    "start_char": 2502,
+    "end_char": 2505,
+    "start_time": 136.847,
+    "end_time": 137.007,
+    "speaker": null
+  },
+  {
+    "word": "to",
+    "start_char": 2506,
+    "end_char": 2508,
+    "start_time": 137.047,
+    "end_time": 137.147,
+    "speaker": null
+  },
+  {
+    "word": "step",
+    "start_char": 2509,
+    "end_char": 2513,
+    "start_time": 137.187,
+    "end_time": 137.427,
+    "speaker": null
+  },
+  {
+    "word": "in.",
+    "start_char": 2514,
+    "end_char": 2517,
+    "start_time": 137.528,
+    "end_time": 137.608,
+    "speaker": null
+  },
+  {
+    "word": "Tenharg",
+    "start_char": 2518,
+    "end_char": 2525,
+    "start_time": 137.928,
+    "end_time": 138.329,
+    "speaker": null
+  },
+  {
+    "word": "moaned",
+    "start_char": 2526,
+    "end_char": 2532,
+    "start_time": 138.369,
+    "end_time": 138.569,
+    "speaker": null
+  },
+  {
+    "word": "about",
+    "start_char": 2533,
+    "end_char": 2538,
+    "start_time": 138.609,
+    "end_time": 138.789,
+    "speaker": null
+  },
+  {
+    "word": "that",
+    "start_char": 2539,
+    "end_char": 2543,
+    "start_time": 138.809,
+    "end_time": 138.95,
+    "speaker": null
+  },
+  {
+    "word": "in",
+    "start_char": 2544,
+    "end_char": 2546,
+    "start_time": 138.99,
+    "end_time": 139.03,
+    "speaker": null
+  },
+  {
+    "word": "the",
+    "start_char": 2547,
+    "end_char": 2550,
+    "start_time": 139.07,
+    "end_time": 139.13,
+    "speaker": null
+  },
+  {
+    "word": "press",
+    "start_char": 2551,
+    "end_char": 2556,
+    "start_time": 139.15,
+    "end_time": 139.35,
+    "speaker": null
+  },
+  {
+    "word": "conference",
+    "start_char": 2557,
+    "end_char": 2567,
+    "start_time": 139.39,
+    "end_time": 139.751,
+    "speaker": null
+  },
+  {
+    "word": "afterwards.",
+    "start_char": 2568,
+    "end_char": 2579,
+    "start_time": 139.871,
+    "end_time": 140.231,
+    "speaker": null
+  },
+  {
+    "word": "So",
+    "start_char": 2580,
+    "end_char": 2582,
+    "start_time": 140.512,
+    "end_time": 140.592,
+    "speaker": null
+  },
+  {
+    "word": "he's",
+    "start_char": 2583,
+    "end_char": 2587,
+    "start_time": 140.612,
+    "end_time": 140.692,
+    "speaker": null
+  },
+  {
+    "word": "contributed",
+    "start_char": 2588,
+    "end_char": 2599,
+    "start_time": 140.732,
+    "end_time": 141.173,
+    "speaker": null
+  },
+  {
+    "word": "quite",
+    "start_char": 2600,
+    "end_char": 2605,
+    "start_time": 141.233,
+    "end_time": 141.413,
+    "speaker": null
+  },
+  {
+    "word": "a",
+    "start_char": 2606,
+    "end_char": 2607,
+    "start_time": 141.433,
+    "end_time": 141.453,
+    "speaker": null
+  },
+  {
+    "word": "lot",
+    "start_char": 2608,
+    "end_char": 2611,
+    "start_time": 141.493,
+    "end_time": 141.593,
+    "speaker": null
+  },
+  {
+    "word": "to",
+    "start_char": 2612,
+    "end_char": 2614,
+    "start_time": 141.613,
+    "end_time": 141.693,
+    "speaker": null
+  },
+  {
+    "word": "his",
+    "start_char": 2615,
+    "end_char": 2618,
+    "start_time": 141.713,
+    "end_time": 141.794,
+    "speaker": null
+  },
+  {
+    "word": "own",
+    "start_char": 2619,
+    "end_char": 2622,
+    "start_time": 141.834,
+    "end_time": 141.954,
+    "speaker": null
+  },
+  {
+    "word": "downfall",
+    "start_char": 2623,
+    "end_char": 2631,
+    "start_time": 141.994,
+    "end_time": 142.374,
+    "speaker": null
+  },
+  {
+    "word": "as",
+    "start_char": 2632,
+    "end_char": 2634,
+    "start_time": 142.414,
+    "end_time": 142.454,
+    "speaker": null
+  },
+  {
+    "word": "well.",
+    "start_char": 2635,
+    "end_char": 2640,
+    "start_time": 142.495,
+    "end_time": 142.655,
+    "speaker": null
+  },
+  {
+    "word": "Andy,",
+    "start_char": 2641,
+    "end_char": 2646,
+    "start_time": 142.955,
+    "end_time": 143.095,
+    "speaker": null
+  },
+  {
+    "word": "we've",
+    "start_char": 2647,
+    "end_char": 2652,
+    "start_time": 143.135,
+    "end_time": 143.276,
+    "speaker": null
+  },
+  {
+    "word": "got",
+    "start_char": 2653,
+    "end_char": 2656,
+    "start_time": 143.316,
+    "end_time": 143.416,
+    "speaker": null
+  },
+  {
+    "word": "about",
+    "start_char": 2657,
+    "end_char": 2662,
+    "start_time": 143.456,
+    "end_time": 143.636,
+    "speaker": null
+  },
+  {
+    "word": "15",
+    "start_char": 2663,
+    "end_char": 2665,
+    "start_time": 143.656,
+    "end_time": 144.057,
+    "speaker": null
+  },
+  {
+    "word": "seconds.",
+    "start_char": 2666,
+    "end_char": 2674,
+    "start_time": 144.117,
+    "end_time": 144.457,
+    "speaker": null
+  },
+  {
+    "word": "Can",
+    "start_char": 2675,
+    "end_char": 2678,
+    "start_time": 144.517,
+    "end_time": 144.618,
+    "speaker": null
+  },
+  {
+    "word": "you",
+    "start_char": 2679,
+    "end_char": 2682,
+    "start_time": 144.658,
+    "end_time": 144.798,
+    "speaker": null
+  },
+  {
+    "word": "tell",
+    "start_char": 2683,
+    "end_char": 2687,
+    "start_time": 144.838,
+    "end_time": 145.018,
+    "speaker": null
+  },
+  {
+    "word": "us",
+    "start_char": 2688,
+    "end_char": 2690,
+    "start_time": 145.078,
+    "end_time": 145.158,
+    "speaker": null
+  },
+  {
+    "word": "how",
+    "start_char": 2691,
+    "end_char": 2694,
+    "start_time": 145.258,
+    "end_time": 145.839,
+    "speaker": null
+  },
+  {
+    "word": "Tenharg",
+    "start_char": 2695,
+    "end_char": 2702,
+    "start_time": 145.879,
+    "end_time": 146.34,
+    "speaker": null
+  },
+  {
+    "word": "reacted",
+    "start_char": 2703,
+    "end_char": 2710,
+    "start_time": 146.36,
+    "end_time": 146.821,
+    "speaker": null
+  },
+  {
+    "word": "to",
+    "start_char": 2711,
+    "end_char": 2713,
+    "start_time": 146.841,
+    "end_time": 147.221,
+    "speaker": null
+  },
+  {
+    "word": "his",
+    "start_char": 2714,
+    "end_char": 2717,
+    "start_time": 147.261,
+    "end_time": 147.381,
+    "speaker": null
+  },
+  {
+    "word": "sacking?",
+    "start_char": 2718,
+    "end_char": 2726,
+    "start_time": 147.682,
+    "end_time": 148.082,
+    "speaker": null
+  },
+  {
+    "word": "He",
+    "start_char": 2727,
+    "end_char": 2729,
+    "start_time": 148.964,
+    "end_time": 149.084,
+    "speaker": null
+  },
+  {
+    "word": "said",
+    "start_char": 2730,
+    "end_char": 2734,
+    "start_time": 149.124,
+    "end_time": 149.244,
+    "speaker": null
+  },
+  {
+    "word": "it",
+    "start_char": 2735,
+    "end_char": 2737,
+    "start_time": 149.284,
+    "end_time": 149.324,
+    "speaker": null
+  },
+  {
+    "word": "was",
+    "start_char": 2738,
+    "end_char": 2741,
+    "start_time": 149.344,
+    "end_time": 149.404,
+    "speaker": null
+  },
+  {
+    "word": "all",
+    "start_char": 2742,
+    "end_char": 2745,
+    "start_time": 149.444,
+    "end_time": 149.544,
+    "speaker": null
+  },
+  {
+    "word": "ever-cusen's",
+    "start_char": 2746,
+    "end_char": 2758,
+    "start_time": 149.585,
+    "end_time": 150.045,
+    "speaker": null
+  },
+  {
+    "word": "fault,",
+    "start_char": 2759,
+    "end_char": 2765,
+    "start_time": 150.065,
+    "end_time": 150.265,
+    "speaker": null
+  },
+  {
+    "word": "basically.",
+    "start_char": 2766,
+    "end_char": 2776,
+    "start_time": 150.326,
+    "end_time": 150.726,
+    "speaker": null
+  },
+  {
+    "word": "He",
+    "start_char": 2777,
+    "end_char": 2779,
+    "start_time": 150.746,
+    "end_time": 150.806,
+    "speaker": null
+  },
+  {
+    "word": "said",
+    "start_char": 2780,
+    "end_char": 2784,
+    "start_time": 150.866,
+    "end_time": 150.987,
+    "speaker": null
+  },
+  {
+    "word": "he",
+    "start_char": 2785,
+    "end_char": 2787,
+    "start_time": 151.007,
+    "end_time": 151.067,
+    "speaker": null
+  },
+  {
+    "word": "didn't",
+    "start_char": 2788,
+    "end_char": 2794,
+    "start_time": 151.107,
+    "end_time": 151.287,
+    "speaker": null
+  },
+  {
+    "word": "feel",
+    "start_char": 2795,
+    "end_char": 2799,
+    "start_time": 151.347,
+    "end_time": 151.968,
+    "speaker": null
+  },
+  {
+    "word": "backed",
+    "start_char": 2800,
+    "end_char": 2806,
+    "start_time": 152.028,
+    "end_time": 152.268,
+    "speaker": null
+  },
+  {
+    "word": "by",
+    "start_char": 2807,
+    "end_char": 2809,
+    "start_time": 152.348,
+    "end_time": 152.449,
+    "speaker": null
+  },
+  {
+    "word": "the",
+    "start_char": 2810,
+    "end_char": 2813,
+    "start_time": 152.489,
+    "end_time": 152.549,
+    "speaker": null
+  },
+  {
+    "word": "club.",
+    "start_char": 2814,
+    "end_char": 2819,
+    "start_time": 152.589,
+    "end_time": 152.849,
+    "speaker": null
+  },
+  {
+    "word": "And",
+    "start_char": 2820,
+    "end_char": 2823,
+    "start_time": 153.19,
+    "end_time": 153.29,
+    "speaker": null
+  },
+  {
+    "word": "everyone",
+    "start_char": 2824,
+    "end_char": 2832,
+    "start_time": 153.45,
+    "end_time": 153.75,
+    "speaker": null
+  },
+  {
+    "word": "who's",
+    "start_char": 2833,
+    "end_char": 2838,
+    "start_time": 153.77,
+    "end_time": 153.871,
+    "speaker": null
+  },
+  {
+    "word": "ever",
+    "start_char": 2839,
+    "end_char": 2843,
+    "start_time": 154.011,
+    "end_time": 154.151,
+    "speaker": null
+  },
+  {
+    "word": "stuck",
+    "start_char": 2844,
+    "end_char": 2849,
+    "start_time": 154.191,
+    "end_time": 154.371,
+    "speaker": null
+  },
+  {
+    "word": "with",
+    "start_char": 2850,
+    "end_char": 2854,
+    "start_time": 154.411,
+    "end_time": 154.491,
+    "speaker": null
+  },
+  {
+    "word": "him",
+    "start_char": 2855,
+    "end_char": 2858,
+    "start_time": 154.531,
+    "end_time": 154.592,
+    "speaker": null
+  },
+  {
+    "word": "has",
+    "start_char": 2859,
+    "end_char": 2862,
+    "start_time": 154.632,
+    "end_time": 154.712,
+    "speaker": null
+  },
+  {
+    "word": "won",
+    "start_char": 2863,
+    "end_char": 2866,
+    "start_time": 154.752,
+    "end_time": 154.852,
+    "speaker": null
+  },
+  {
+    "word": "a",
+    "start_char": 2867,
+    "end_char": 2868,
+    "start_time": 154.892,
+    "end_time": 154.912,
+    "speaker": null
+  },
+  {
+    "word": "trophy",
+    "start_char": 2869,
+    "end_char": 2875,
+    "start_time": 154.952,
+    "end_time": 155.212,
+    "speaker": null
+  },
+  {
+    "word": "at",
+    "start_char": 2876,
+    "end_char": 2878,
+    "start_time": 155.232,
+    "end_time": 155.273,
+    "speaker": null
+  },
+  {
+    "word": "the",
+    "start_char": 2879,
+    "end_char": 2882,
+    "start_time": 155.313,
+    "end_time": 155.393,
+    "speaker": null
+  },
+  {
+    "word": "end",
+    "start_char": 2883,
+    "end_char": 2886,
+    "start_time": 155.433,
+    "end_time": 155.493,
+    "speaker": null
+  },
+  {
+    "word": "of",
+    "start_char": 2887,
+    "end_char": 2889,
+    "start_time": 155.553,
+    "end_time": 155.593,
+    "speaker": null
+  },
+  {
+    "word": "the",
+    "start_char": 2890,
+    "end_char": 2893,
+    "start_time": 155.613,
+    "end_time": 155.693,
+    "speaker": null
+  },
+  {
+    "word": "season.",
+    "start_char": 2894,
+    "end_char": 2901,
+    "start_time": 155.733,
+    "end_time": 155.974,
+    "speaker": null
+  },
+  {
+    "word": "Spoiler",
+    "start_char": 2902,
+    "end_char": 2909,
+    "start_time": 156.234,
+    "end_time": 156.594,
+    "speaker": null
+  },
+  {
+    "word": "alert,",
+    "start_char": 2910,
+    "end_char": 2916,
+    "start_time": 156.614,
+    "end_time": 156.775,
+    "speaker": null
+  },
+  {
+    "word": "if",
+    "start_char": 2917,
+    "end_char": 2919,
+    "start_time": 156.855,
+    "end_time": 156.915,
+    "speaker": null
+  },
+  {
+    "word": "they",
+    "start_char": 2920,
+    "end_char": 2924,
+    "start_time": 156.935,
+    "end_time": 157.015,
+    "speaker": null
+  },
+  {
+    "word": "had",
+    "start_char": 2925,
+    "end_char": 2928,
+    "start_time": 157.035,
+    "end_time": 157.095,
+    "speaker": null
+  },
+  {
+    "word": "a",
+    "start_char": 2929,
+    "end_char": 2930,
+    "start_time": 157.115,
+    "end_time": 157.135,
+    "speaker": null
+  },
+  {
+    "word": "start",
+    "start_char": 2931,
+    "end_char": 2936,
+    "start_time": 157.155,
+    "end_time": 157.295,
+    "speaker": null
+  },
+  {
+    "word": "with",
+    "start_char": 2937,
+    "end_char": 2941,
+    "start_time": 157.315,
+    "end_time": 157.416,
+    "speaker": null
+  },
+  {
+    "word": "him,",
+    "start_char": 2942,
+    "end_char": 2946,
+    "start_time": 157.436,
+    "end_time": 157.536,
+    "speaker": null
+  },
+  {
+    "word": "they",
+    "start_char": 2947,
+    "end_char": 2951,
+    "start_time": 157.696,
+    "end_time": 157.796,
+    "speaker": null
+  },
+  {
+    "word": "wouldn't",
+    "start_char": 2952,
+    "end_char": 2960,
+    "start_time": 157.816,
+    "end_time": 158.016,
+    "speaker": null
+  },
+  {
+    "word": "have.",
+    "start_char": 2961,
+    "end_char": 2966,
+    "start_time": 158.056,
+    "end_time": 158.457,
+    "speaker": null
+  }
+]

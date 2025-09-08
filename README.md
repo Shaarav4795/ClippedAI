@@ -105,6 +105,10 @@
    - Click "Access repository" and accept the terms
    - Visit [pyannote/segmentation](https://huggingface.co/pyannote/segmentation)
    - Click "Access repository" and accept the terms
+   - Visit [pyannote/segmentation-3.0](https://huggingface.co/pyannote/segmentation-3.0)
+   - Click "Access repository" and accept the terms
+
+   
 
 3. **Create your API token**
 
