@@ -3,125 +3,48 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <!-- SEO Meta Tags -->
-    <title>ClippedAI - Free Open-Source OpusClip Alternative | AI YouTube Shorts Generator</title>
-    <meta name="description" content="Transform long videos into viral YouTube Shorts automatically. Free OpusClip alternative with AI clip detection, 9:16 resize, animated subtitles, and viral titles. Built on clipsai library.">
-    <meta name="keywords" content="youtube shorts, video editing, AI video, opusclip alternative, free video editor, clipsai, viral content, video automation">
-    <meta name="author" content="Shaarav Arya">
-    
-    <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://shaarav4795.github.io/ClippedAI/">
-    <meta property="og:title" content="ClippedAI - Free Open-Source OpusClip Alternative">
-    <meta property="og:description" content="Transform long videos into viral YouTube Shorts automatically. 100% free, no subscriptions needed!">
-    <meta property="og:image" content="https://shaarav4795.github.io/ClippedAI/assets/og-image.png">
-
-    <!-- Twitter -->
-    <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://shaarav4795.github.io/ClippedAI/">
-    <meta property="twitter:title" content="ClippedAI - Free Open-Source OpusClip Alternative">
-    <meta property="twitter:description" content="Transform long videos into viral YouTube Shorts automatically. 100% free, no subscriptions needed!">
-    <meta property="twitter:image" content="https://shaarav4795.github.io/ClippedAI/assets/og-image.png">
-
-    <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="favicon.ico">
-    
-    <!-- CSS -->
-    <link rel="stylesheet" href="styles.css">
-    
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-    
-    <!-- Font Awesome -->
+    <title>ClippedAI - AI-Powered YouTube Shorts Generator</title>
+    <meta name="description" content="Transform long-form videos into engaging YouTube Shorts automatically using AI-powered transcription, clip detection, and viral title generation.">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
-    <!-- Navigation -->
-    <nav class="navbar">
-        <div class="nav-container">
-            <div class="nav-logo">
-                <i class="fas fa-video"></i>
-                <span>ClippedAI</span>
+    <!-- Header -->
+    <header>
+        <nav class="navbar">
+            <div class="nav-container">
+                <div class="logo">
+                    <h2>Clipped<span>AI</span></h2>
+                </div>
+                <div class="nav-menu" id="nav-menu">
+                    <a href="#home" class="nav-link">Home</a>
+                    <a href="#features" class="nav-link">Features</a>
+                    <a href="#how-it-works" class="nav-link">How It Works</a>
+                    <a href="#comparison" class="nav-link">Comparison</a>
+                    <a href="#setup" class="nav-link">Setup</a>
+                    <a href="#faq" class="nav-link">FAQ</a>
+                    <a href="https://github.com/Shaarav4795/ClippedAI" target="_blank" class="nav-link cta">GitHub</a>
+                </div>
+                <div class="hamburger" id="hamburger">
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                </div>
             </div>
-            <ul class="nav-menu">
-                <li><a href="#features">Features</a></li>
-                <li><a href="#comparison">vs OpusClip</a></li>
-                <li><a href="#tech-stack">Technology</a></li>
-                <li><a href="#setup">Setup</a></li>
-                <li><a href="#testimonials">Testimonials</a></li>
-                <li><a href="https://github.com/Shaarav4795/ClippedAI" target="_blank" class="github-btn">
-                    <i class="fab fa-github"></i> GitHub
-                </a></li>
-            </ul>
-            <div class="hamburger">
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
-        </div>
-    </nav>
+        </nav>
+    </header>
 
     <!-- Hero Section -->
-    <section class="hero">
+    <section id="home" class="hero">
         <div class="hero-container">
             <div class="hero-content">
-                <h1 class="hero-title">
-                    🚀 Free Open-Source 
-                    <span class="gradient-text">OpusClip Alternative</span>
-                </h1>
-                <p class="hero-subtitle">
-                    Transform long-form videos into engaging YouTube Shorts automatically using AI-powered transcription, 
-                    smart clip detection, and viral title generation. Built on the powerful clipsai library.<br>
-                    <strong>ClippedAI is the open-source, privacy-friendly, and fully customizable alternative to OpusClip.</strong>
-                </p>
+                <h1>Transform Videos into Viral YouTube Shorts</h1>
+                <p>AI-powered tool to automatically create engaging YouTube Shorts from long-form videos. Open-source alternative to OpusClip with 100% free usage.</p>
                 <div class="hero-buttons">
-                    <a href="https://github.com/Shaarav4795/ClippedAI" target="_blank" class="btn btn-primary">
-                        <i class="fab fa-github"></i> Get Started Free
-                    </a>
+                    <a href="#setup" class="btn btn-primary">Get Started</a>
+                    <a href="https://github.com/Shaarav4795/ClippedAI" target="_blank" class="btn btn-secondary">View on GitHub</a>
                 </div>
-                <div class="hero-stats">
-                    <div class="stat">
-                        <span class="stat-number">100%</span>
-                        <span class="stat-label">Free</span>
-                    </div>
-                    <div class="stat">
-                        <span class="stat-number">$0</span>
-                        <span class="stat-label">Monthly Cost</span>
-                    </div>
-                    <div class="stat">
-                        <span class="stat-number">∞</span>
-                        <span class="stat-label">Videos</span>
-                    </div>
-                </div>
-            </div>
-            <div class="hero-image">
-                <!-- Removed video-preview -->
-            </div>
-        </div>
-    </section>
-
-    <!-- About Section -->
-    <section class="about">
-        <div class="container">
-            <h2 class="section-title">About ClippedAI</h2>
-            <div class="about-content">
-                <p class="about-description">
-                    <strong>ClippedAI</strong> is a free, open-source tool that automatically transforms long-form videos into viral YouTube Shorts. Unlike cloud-based tools, ClippedAI runs locally on your machine, ensuring your content and data remain private. It leverages advanced AI models for transcription, smart clip detection, and subtitle generation, and is built on the robust <a href="https://github.com/ClipsAI/clipsai" target="_blank">clipsai</a> library.
-                </p>
-                <div class="about-benefits">
-                    <h3>Key Benefits</h3>
-                    <ul>
-                        <li>100% free and open-source (no subscriptions, no hidden fees)</li>
-                        <li>Works offline for maximum privacy</li>
-                        <li>Highly customizable for developers and creators</li>
-                        <li>Supports batch processing and transcription caching</li>
-                        <li>Perfect for podcasts, interviews, lectures, and more</li>
-                    </ul>
-                </div>
-                <p class="about-conclusion">
-                    Whether you're a content creator, educator, or developer, ClippedAI gives you full control over your video workflow—no vendor lock-in, no data sharing, just powerful automation.
-                </p>
             </div>
         </div>
     </section>
@@ -129,112 +52,88 @@
     <!-- Features Section -->
     <section id="features" class="features">
         <div class="container">
-            <h2 class="section-title">✨ Powerful Features</h2>
-            <p style="text-align:center; max-width:700px; margin:0 auto 2rem; color:#6b7280;">
-                ClippedAI uses state-of-the-art AI models to automate the most time-consuming parts of video editing. From smart clip detection to subtitle styling and viral title generation, every feature is designed to help you grow your channel and save hours of manual work. No cloud uploads, no privacy risks—just fast, local processing.
-            </p>
+            <div class="section-header">
+                <h2>Powerful Features</h2>
+                <p>Everything you need to transform long videos into engaging YouTube Shorts</p>
+            </div>
             <div class="features-grid">
                 <div class="feature-card">
-                    <div class="feature-icon">
+                    <div class="icon">
                         <i class="fas fa-brain"></i>
                     </div>
                     <h3>Smart Clip Detection</h3>
-                    <p>AI identifies the most engaging moments in your videos using advanced TextTiling algorithms</p>
+                    <p>AI identifies the most engaging moments in your videos using advanced engagement scoring algorithms.</p>
                 </div>
                 <div class="feature-card">
-                    <div class="feature-icon">
+                    <div class="icon">
                         <i class="fas fa-expand-arrows-alt"></i>
                     </div>
-                    <h3>Auto-Resize to 9:16</h3>
-                    <p>Automatically crops videos to perfect YouTube Shorts aspect ratio with smart speaker tracking</p>
+                    <h3>Auto-Resize</h3>
+                    <p>Automatically crops videos to 9:16 aspect ratio perfect for YouTube Shorts with intelligent face tracking.</p>
                 </div>
                 <div class="feature-card">
-                    <div class="feature-icon">
+                    <div class="icon">
                         <i class="fas fa-closed-captioning"></i>
                     </div>
                     <h3>Animated Subtitles</h3>
-                    <p>Clean, bold subtitles with smart styling - white text, yellow for numbers/currency</p>
+                    <p>Clean, bold subtitles with smart styling. Yellow for numbers/currency, white for text, positioned at top center.</p>
                 </div>
                 <div class="feature-card">
-                    <div class="feature-icon">
-                        <i class="fas fa-rocket"></i>
+                    <div class="icon">
+                        <i class="fas fa-bullhorn"></i>
                     </div>
                     <h3>Viral Title Generation</h3>
-                    <p>AI generates catchy, emoji-rich titles optimized for maximum engagement</p>
+                    <p>AI generates catchy, titles optimized for engagement with emojis to grab attention.</p>
                 </div>
                 <div class="feature-card">
-                    <div class="feature-icon">
-                        <i class="fas fa-save"></i>
+                    <div class="icon">
+                        <i class="fas fa-bolt"></i>
                     </div>
                     <h3>Transcription Caching</h3>
-                    <p>Save time and money by reusing existing transcriptions</p>
+                    <p>Save time and processing resources by reusing existing transcriptions for the same videos.</p>
                 </div>
                 <div class="feature-card">
-                    <div class="feature-icon">
-                        <i class="fas fa-chart-line"></i>
+                    <div class="icon">
+                        <i class="fas fa-layer-group"></i>
                     </div>
-                    <h3>Engagement Scoring</h3>
-                    <p>Intelligent clip selection based on content engagement metrics</p>
+                    <h3>Multiple Video Support</h3>
+                    <p>Process multiple videos in one session with customisable clip counts per video.</p>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Technology Stack Section -->
-    <section id="tech-stack" class="tech-stack">
+    <!-- How It Works Section -->
+    <section id="how-it-works" class="how-it-works">
         <div class="container">
-            <h2 class="section-title">🛠️ Powered by Cutting-Edge Technology</h2>
-            <p style="text-align:center; max-width:700px; margin:0 auto 3rem; color:#6b7280;">
-                ClippedAI leverages state-of-the-art AI and machine learning technologies to deliver professional-grade video processing capabilities.
-            </p>
-            <div class="tech-grid">
-                <div class="tech-card">
-                    <div class="tech-icon">
-                        <i class="fas fa-brain"></i>
+            <div class="section-header">
+                <h2>How It Works</h2>
+                <p>Transform your videos in just 3 simple steps</p>
+            </div>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="icon">
+                        <i class="fas fa-upload"></i>
                     </div>
-                    <h3>Whisper AI</h3>
-                    <p>Advanced speech recognition and transcription with word-level timing accuracy</p>
-                    <span class="tech-tag">OpenAI</span>
+                    <div class="step-number">1</div>
+                    <h3>Upload Videos</h3>
+                    <p>Add your long-form videos to the input folder. The AI will analyse the content using advanced transcription.</p>
                 </div>
-                <div class="tech-card">
-                    <div class="tech-icon">
-                        <i class="fas fa-users"></i>
-                    </div>
-                    <h3>Pyannote</h3>
-                    <p>Speaker diarization and voice activity detection for intelligent video cropping</p>
-                    <span class="tech-tag">HuggingFace</span>
-                </div>
-                <div class="tech-card">
-                    <div class="tech-icon">
-                        <i class="fas fa-language"></i>
-                    </div>
-                    <h3>TextTiling</h3>
-                    <p>BERT-powered topic segmentation for intelligent clip detection</p>
-                    <span class="tech-tag">NLP</span>
-                </div>
-                <div class="tech-card">
-                    <div class="tech-icon">
-                        <i class="fas fa-video"></i>
-                    </div>
-                    <h3>FFmpeg</h3>
-                    <p>Professional video processing and format conversion capabilities</p>
-                    <span class="tech-tag">Video</span>
-                </div>
-                <div class="tech-card">
-                    <div class="tech-icon">
+                <div class="feature-card">
+                    <div class="icon">
                         <i class="fas fa-robot"></i>
                     </div>
-                    <h3>Groq AI</h3>
-                    <p>Ultra-fast LLM for generating viral, engagement-optimized titles</p>
-                    <span class="tech-tag">AI</span>
+                    <div class="step-number">2</div>
+                    <h3>AI Processing</h3>
+                    <p>Our AI identifies the most engaging moments, generates viral titles, and prepares your YouTube Shorts.</p>
                 </div>
-                <div class="tech-card">
-                    <div class="tech-icon">
-                        <i class="fas fa-code"></i>
+                <div class="feature-card">
+                    <div class="icon">
+                        <i class="fas fa-download"></i>
                     </div>
-                    <h3>clipsai</h3>
-                    <p>Core video processing library with advanced clipping algorithms</p>
-                    <span class="tech-tag">Python</span>
+                    <div class="step-number">3</div>
+                    <h3>Download Results</h3>
+                    <p>Get your professionally edited YouTube Shorts ready for upload to your channel in 9:16 format.</p>
                 </div>
             </div>
         </div>
@@ -243,43 +142,62 @@
     <!-- Comparison Section -->
     <section id="comparison" class="comparison">
         <div class="container">
-            <h2 class="section-title">🆚 Why Choose ClippedAI Over OpusClip?</h2>
+            <div class="section-header">
+                <h2>Why Choose ClippedAI</h2>
+                <p>Outperform expensive alternatives with our open-source solution</p>
+            </div>
             <div class="comparison-table">
-                <div class="comparison-header">
-                    <div class="comparison-cell">Feature</div>
-                    <div class="comparison-cell">ClippedAI</div>
-                    <div class="comparison-cell">OpusClip</div>
-                </div>
-                <div class="comparison-row">
-                    <div class="comparison-cell">Cost</div>
-                    <div class="comparison-cell success">🆓 100% Free</div>
-                    <div class="comparison-cell error">💰 $39/month</div>
-                </div>
-                <div class="comparison-row">
-                    <div class="comparison-cell">Privacy</div>
-                    <div class="comparison-cell success">🔒 Local processing</div>
-                    <div class="comparison-cell error">☁️ Cloud-based</div>
-                </div>
-                <div class="comparison-row">
-                    <div class="comparison-cell">Customization</div>
-                    <div class="comparison-cell success">⚙️ Fully customizable</div>
-                    <div class="comparison-cell error">🎛️ Limited options</div>
-                </div>
-                <div class="comparison-row">
-                    <div class="comparison-cell">API Keys</div>
-                    <div class="comparison-cell success">🆓 Free (HuggingFace + Groq)</div>
-                    <div class="comparison-cell error">💳 Paid subscriptions</div>
-                </div>
-                <div class="comparison-row">
-                    <div class="comparison-cell">Offline Use</div>
-                    <div class="comparison-cell success">✅ Works offline</div>
-                    <div class="comparison-cell error">❌ Requires internet</div>
-                </div>
-                <div class="comparison-row">
-                    <div class="comparison-cell">Source Code</div>
-                    <div class="comparison-cell success">🔓 Open source</div>
-                    <div class="comparison-cell error">🔒 Proprietary</div>
-                </div>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Feature</th>
+                            <th>ClippedAI</th>
+                            <th>OpusClip</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Cost</td>
+                            <td class="positive">100% Free</td>
+                            <td class="negative">$39/month</td>
+                        </tr>
+                        <tr>
+                            <td>Privacy</td>
+                            <td class="positive">Local processing</td>
+                            <td class="negative">Cloud-based</td>
+                        </tr>
+                        <tr>
+                            <td>Customization</td>
+                            <td class="positive">Fully customizable</td>
+                            <td class="negative">Limited options</td>
+                        </tr>
+                        <tr>
+                            <td>API Keys</td>
+                            <td class="positive">Free (HuggingFace + Groq)</td>
+                            <td class="negative">Paid subscriptions</td>
+                        </tr>
+                        <tr>
+                            <td>Offline Use</td>
+                            <td class="positive">Works offline (no titles)</td>
+                            <td class="negative">Requires internet</td>
+                        </tr>
+                        <tr>
+                            <td>Source Code</td>
+                            <td class="positive">Open source</td>
+                            <td class="negative">Proprietary</td>
+                        </tr>
+                        <tr>
+                            <td>Model Control</td>
+                            <td class="positive">Choose your own models</td>
+                            <td class="negative">Fixed models</td>
+                        </tr>
+                        <tr>
+                            <td>Transcription Caching</td>
+                            <td class="positive">Save time & money</td>
+                            <td class="negative">No caching</td>
+                        </tr>
+                    </tbody>
+                </table>
             </div>
         </div>
     </section>
@@ -287,158 +205,104 @@
     <!-- Setup Section -->
     <section id="setup" class="setup">
         <div class="container">
-            <h2 class="section-title">🚀 Quick Setup Guide</h2>
-            <p style="text-align:center; max-width:700px; margin:0 auto 2rem; color:#6b7280;">
-                Setting up ClippedAI is easy! All you need is Python, FFmpeg, and free API keys from HuggingFace and Groq. Follow these steps to get started in minutes. For advanced configuration, see the <a href="https://github.com/Shaarav4795/ClippedAI/blob/main/README.md" target="_blank">full documentation</a>.
-            </p>
+            <div class="section-header">
+                <h2>Quick Setup</h2>
+                <p>Get started with ClippedAI in minutes</p>
+            </div>
             <div class="setup-steps">
-                <div class="step">
-                    <div class="step-number">1</div>
-                    <div class="step-content">
-                        <h3>Clone Repository</h3>
-                        <div class="code-block">
-                            <code>git clone https://github.com/Shaarav4795/ClippedAI.git<br>cd ClippedAI</code>
-                        </div>
+                <div class="setup-step installation">
+                    <div class="step-icon">
+                        <i class="fas fa-cube"></i>
+                    </div>
+                    <h3>Prerequisites</h3>
+                    <ul class="setup-list">
+                        <li>Python 3.8+ (Tested on 3.11)</li>
+                        <li>FFmpeg installed and available in PATH</li>
+                        <li>8GB+ RAM (16GB+ recommended for large models)</li>
+                        <li>GPU (optional but recommended for faster processing)</li>
+                    </ul>
+                </div>
+                <div class="setup-step installation">
+                    <div class="step-icon">
+                        <i class="fas fa-download"></i>
+                    </div>
+                    <h3>Installation</h3>
+                    <div class="code-block">
+                        <pre><code># Clone the repository
+git clone https://github.com/Shaarav4795/ClippedAI.git
+cd ClippedAI
+
+# Create and activate virtual environment
+python3 -m venv env
+source env/bin/activate  # On macOS/Linux
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Install FFmpeg (macOS)
+brew install ffmpeg</code></pre>
                     </div>
                 </div>
-                <div class="step">
-                    <div class="step-number">2</div>
-                    <div class="step-content">
-                        <h3>Create Virtual Environment</h3>
-                        <div class="code-block">
-                            <code>python3 -m venv env<br>source env/bin/activate</code>
-                        </div>
+                <div class="setup-step installation">
+                    <div class="step-icon">
+                        <i class="fas fa-key"></i>
                     </div>
-                </div>
-                <div class="step">
-                    <div class="step-number">3</div>
-                    <div class="step-content">
-                        <h3>Install Dependencies</h3>
-                        <div class="code-block">
-                            <code>pip install -r requirements.txt</code>
-                        </div>
-                    </div>
-                </div>
-                <div class="step">
-                    <div class="step-number">4</div>
-                    <div class="step-content">
-                        <h3>Install FFmpeg</h3>
-                        <div class="code-block">
-                            <code># macOS<br>brew install ffmpeg<br><br># Ubuntu/Debian<br>sudo apt install ffmpeg</code>
-                        </div>
-                    </div>
-                </div>
-                <div class="step">
-                    <div class="step-number">5</div>
-                    <div class="step-content">
-                        <h3>Configure API Keys</h3>
-                        <p>Get free API keys from HuggingFace and Groq, then update main.py</p>
-                        <a href="#api-setup" class="btn btn-outline">View API Setup Guide</a>
+                    <h3>API Keys Setup</h3>
+                    <div class="api-info">
+                        <p>You'll need two free API keys:</p>
+                        <ul class="setup-list">
+                            <li><strong>HuggingFace Token:</strong> For speaker diarisation (100% free)</li>
+                            <li><strong>Groq API Key:</strong> For viral title generation (100% free)</li>
+                        </ul>
+                        <p class="api-note">See the documentation for detailed setup instructions.</p>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- API Setup Section -->
-    <section id="api-setup" class="api-setup">
+    <!-- FAQ Section -->
+    <section id="faq" class="faq">
         <div class="container">
-            <h2 class="section-title">🔑 API Keys Setup (100% Free)</h2>
-            <div class="api-cards">
-                <div class="api-card">
-                    <div class="api-header">
-                        <i class="fab fa-huggingface"></i>
-                        <h3>HuggingFace Token</h3>
-                    </div>
-                    <ol>
-                        <li>Sign up at <a href="https://huggingface.co/join" target="_blank">HuggingFace</a></li>
-                        <li>Request access to Pyannote repositories</li>
-                        <li>Create API token with "read" permissions</li>
-                        <li>Replace placeholder in main.py</li>
-                    </ol>
-                </div>
-                <div class="api-card">
-                    <div class="api-header">
-                        <i class="fas fa-bolt"></i>
-                        <h3>Groq API Key</h3>
-                    </div>
-                    <ol>
-                        <li>Sign up at <a href="https://console.groq.com/" target="_blank">Groq</a></li>
-                        <li>Get API key from dashboard</li>
-                        <li>Replace placeholder in main.py</li>
-                        <li>Start generating viral titles!</li>
-                    </ol>
-                </div>
+            <div class="section-header">
+                <h2>Frequently Asked Questions</h2>
+                <p>Everything you need to know about ClippedAI</p>
             </div>
-        </div>
-    </section>
-
-    <!-- Testimonials Section -->
-    <section id="testimonials" class="testimonials">
-        <div class="container">
-            <h2 class="section-title">💬 What Users Are Saying</h2>
-            <p style="text-align:center; max-width:700px; margin:0 auto 3rem; color:#6b7280;">
-                Join hundreds of content creators who have transformed their workflow with ClippedAI
-            </p>
-            <div class="testimonials-grid">
-                <div class="testimonial-card">
-                    <div class="testimonial-content">
-                        <p>"ClippedAI saved me hours of manual editing. The AI clip detection is incredibly accurate and the viral titles are spot-on!"</p>
-                    </div>
-                    <div class="testimonial-author">
-                        <div class="author-avatar">
-                            <i class="fas fa-user"></i>
-                        </div>
-                        <div class="author-info">
-                            <h4><a href="https://www.youtube.com/@4795Clips" target="_blank">4795 Clips</a></h4>
-                            <span>YouTube Content Creator</span>
-                        </div>
+            <div class="faq-container">
+                <div class="faq-item">
+                    <button class="faq-question">
+                        Is ClippedAI really free to use?
+                        <i class="fas fa-chevron-down"></i>
+                    </button>
+                    <div class="faq-answer">
+                        <p>Yes! ClippedAI is completely free to use. You only need free API keys from HuggingFace and Groq, both of which offer free tiers that are sufficient for processing videos.</p>
                     </div>
                 </div>
-                <div class="testimonial-card">
-                    <div class="testimonial-content">
-                        <p>"Finally, a free alternative to OpusClip that actually works! The privacy aspect is a huge plus for my business."</p>
-                    </div>
-                    <div class="testimonial-author">
-                        <div class="author-avatar">
-                            <i class="fas fa-user"></i>
-                        </div>
-                        <div class="author-info">
-                            <h4>SnK Productions</h4>
-                            <span>Video Production Studio</span>
-                        </div>
+                <div class="faq-item">
+                    <button class="faq-question">
+                        How does the engagement scoring work?
+                        <i class="fas fa-chevron-down"></i>
+                    </button>
+                    <div class="faq-answer">
+                        <p>The AI uses multiple factors to select the best clips: word density (45% weight), engagement words ratio (numbers, currency, exclamation marks - 30% weight), and duration balance (25% weight) to identify the most engaging moments.</p>
                     </div>
                 </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Call to Action Section -->
-    <section class="cta">
-        <div class="container">
-            <div class="cta-content">
-                <h2>Ready to Transform Your Video Workflow?</h2>
-                <p>Join thousands of creators who are already saving hours with ClippedAI. Start creating viral YouTube Shorts today!</p>
-                <div class="cta-buttons">
-                    <a href="https://github.com/Shaarav4795/ClippedAI" target="_blank" class="btn btn-primary">
-                        <i class="fab fa-github"></i> Get Started Free
-                    </a>
-                    <a href="https://github.com/Shaarav4795/ClippedAI/blob/main/README.md" target="_blank" class="btn btn-outline">
-                        <i class="fas fa-book"></i> Read Documentation
-                    </a>
+                <div class="faq-item">
+                    <button class="faq-question">
+                        What transcription models are available?
+                        <i class="fas fa-chevron-down"></i>
+                    </button>
+                    <div class="faq-answer">
+                        <p>ClippedAI supports all Whisper models: tiny, base, small, medium, large-v1, and large-v2. Choose based on your hardware: use smaller models for CPUs with less RAM, and larger models for GPUs with more VRAM for best results.</p>
+                    </div>
                 </div>
-                <div class="cta-stats">
-                    <div class="cta-stat">
-                        <span class="cta-number">100%</span>
-                        <span class="cta-label">Free Forever</span>
-                    </div>
-                    <div class="cta-stat">
-                        <span class="cta-number">∞</span>
-                        <span class="cta-label">Videos Processed</span>
-                    </div>
-                    <div class="cta-stat">
-                        <span class="cta-number">24/7</span>
-                        <span class="cta-label">Local Processing</span>
+                <div class="faq-item">
+                    <button class="faq-question">
+                        Can I customize the subtitles?
+                        <i class="fas fa-chevron-down"></i>
+                    </button>
+                    <div class="faq-answer">
+                        <p>Yes! You can customize font, size, colors, positioning, and styling. The default setup uses Montserrat Extra Bold with white text and yellow for numbers/currency, positioned at the top center.</p>
                     </div>
                 </div>
             </div>
@@ -451,41 +315,26 @@
             <div class="footer-content">
                 <div class="footer-section">
                     <h3>ClippedAI</h3>
-                    <p>Free open-source alternative to OpusClip for creating viral YouTube Shorts.</p>
+                    <p>AI-powered YouTube Shorts generator. Transform long-form videos into engaging shorts automatically.</p>
                     <div class="social-links">
-                        <a href="https://github.com/Shaarav4795/ClippedAI" target="_blank">
-                            <i class="fab fa-github"></i>
-                        </a>
-                        <a href="mailto:aryashaarav@icloud.com">
-                            <i class="fas fa-envelope"></i>
-                        </a>
+                        <a href="https://github.com/Shaarav4795/ClippedAI" target="_blank"><i class="fab fa-github"></i></a>
                     </div>
                 </div>
                 <div class="footer-section">
-                    <h4>Quick Links</h4>
+                    <h4>Resources</h4>
                     <ul>
-                        <li><a href="#features">Features</a></li>
-                        <li><a href="#setup">Setup Guide</a></li>
-                        <li><a href="https://github.com/Shaarav4795/ClippedAI/blob/main/README.md">Documentation</a></li>
-                    </ul>
-                </div>
-                <div class="footer-section">
-                    <h4>Support</h4>
-                    <ul>
-                        <li><a href="mailto:aryashaarav@icloud.com">Email Support</a></li>
-                        <li><a href="https://github.com/Shaarav4795/ClippedAI/discussions">Discussions</a></li>
-                        <li><a href="https://github.com/Shaarav4795/ClippedAI/blob/main/LICENSE">License</a></li>
+                        <li><a href="https://github.com/Shaarav4795/ClippedAI/blob/main/README.md" target="_blank">Documentation</a></li>
+                        <li><a href="https://github.com/Shaarav4795/ClippedAI/issues" target="_blank">Issues</a></li>
+                        <li><a href="https://github.com/Shaarav4795/ClippedAI/blob/main/LICENSE" target="_blank">License</a></li>
                     </ul>
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2025 Shaarav Arya. Made with ❤️ for the open-source community.<br>
-                <span style="font-size:0.95em; color:#f59e0b;">Commercial use requires prior permission. For support, email <a href="mailto:aryashaarav@icloud.com" style="color:#f59e0b;">aryashaarav@icloud.com</a>.</span></p>
+                <p>&copy; 2025 Shaarav4795. This project is licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</p>
             </div>
         </div>
     </footer>
 
-    <!-- JavaScript -->
-    <script src="script.js"></script>
+    <script src="js/script.js"></script>
 </body>
-</html> 
+</html>

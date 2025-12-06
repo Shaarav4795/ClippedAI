@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <!-- Background -->
+  <rect width="600" height="400" fill="#f0f4f8"/>
+  
+  <!-- Screen/Video Player -->
+  <rect x="50" y="50" width="500" height="300" rx="10" fill="#4361ee" stroke="#3a56d4" stroke-width="4"/>
+  <rect x="60" y="60" width="480" height="280" rx="6" fill="#ffffff"/>
+  
+  <!-- Video Content -->
+  <rect x="70" y="70" width="460" height="260" rx="4" fill="#e9ecef"/>
+  <rect x="100" y="100" width="400" height="200" rx="4" fill="#4cc9f0"/>
+  
+  <!-- Play Button -->
+  <circle cx="300" cy="200" r="40" fill="#ffffff" opacity="0.9"/>
+  <polygon points="285,180 285,220 320,200" fill="#4361ee"/>
+  
+  <!-- AI Elements -->
+  <circle cx="150" cy="150" r="25" fill="#7209b7" opacity="0.7"/>
+  <circle cx="450" cy="150" r="25" fill="#7209b7" opacity="0.7"/>
+  <circle cx="150" cy="250" r="25" fill="#7209b7" opacity="0.7"/>
+  <circle cx="450" cy="250" r="25" fill="#7209b7" opacity="0.7"/>
+  
+  <!-- Neural Network Connections -->
+  <line x1="150" y1="150" x2="300" y2="200" stroke="#4361ee" stroke-width="2" opacity="0.6"/>
+  <line x1="450" y1="150" x2="300" y2="200" stroke="#4361ee" stroke-width="2" opacity="0.6"/>
+  <line x1="150" y1="250" x2="300" y2="200" stroke="#4361ee" stroke-width="2" opacity="0.6"/>
+  <line x1="450" y1="250" x2="300" y2="200" stroke="#4361ee" stroke-width="2" opacity="0.6"/>
+  
+  <!-- Title Text -->
+  <text x="300" y="370" font-family="Arial, sans-serif" font-size="24" fill="#333" text-anchor="middle" font-weight="bold">
+    AI Video Processing
+  </text>
+</svg>
