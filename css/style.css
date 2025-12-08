@@ -139,6 +139,7 @@ body {
 
 .gradient-text {
     background: var(--gradient-main);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
