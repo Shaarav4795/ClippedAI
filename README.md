@@ -18,7 +18,7 @@
 ## Why Choose ClippedAI Over OpusClip?
 
 | Feature | ClippedAI | OpusClip |
-|---------|-----------|----------|
+| ------- | --------- | -------- |
 | **Cost** | 100% Free | $39/month |
 | **Privacy** | Local processing | Cloud-based |
 | **Customization** | Fully customisable | Limited options |
@@ -42,12 +42,14 @@
 ### Installation
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/Shaarav4795/ClippedAI.git
    cd ClippedAI
    ```
 
 2. **Create and activate virtual environment**
+
    ```bash
    # On macOS/Linux
    python3 -m venv env
@@ -59,11 +61,13 @@
    ```
 
 3. **Install dependencies**
+
    ```bash
    pip install -r requirements.txt
    ```
 
 4. **Install FFmpeg**
+
    ```bash
    # macOS (using Homebrew)
    brew install ffmpeg
@@ -78,6 +82,7 @@
    ```
 
 5. **Create environment file**
+
    ```bash
    # Copy the example environment file
    cp .env.example .env
@@ -89,6 +94,7 @@
 ### API Keys Setup
 
 #### HuggingFace Token (Required) - **100% FREE**
+
 1. **Sign up for HuggingFace**
    - Go to [HuggingFace](https://huggingface.co/join) and create a free account
 
@@ -115,6 +121,7 @@
 **Note**: The first time you run the script, it will download the Pyannote models (~2GB). This may take several minutes depending on your internet connection.
 
 #### Groq API Key (Required for viral titles) - **100% FREE**
+
 1. Sign up at [Groq](https://console.groq.com/) (free tier available)
 2. Get your API key from the dashboard
 3. Add your API key to the `.env` file where `GROQ_API_KEY=your_groq_api_key_here`
@@ -139,17 +146,20 @@ The script uses Whisper models via `clipsai`. Choose based on your hardware:
 ### Hardware Recommendations
 
 **For CPU-only systems:**
+
 - 4GB RAM: Use `tiny` or `base`
 - 8GB RAM: Use `small` or `medium`
 - 16GB+ RAM: Use `large-v1` or `large-v2`
 
 **For GPU systems:**
+
 - Any GPU with 4GB+ VRAM: Use `large-v2` (best results)
 - GPU with 2GB VRAM: Use `medium` or `large-v1`
 
 ### Changing the Model
 
 The transcription model can be configured via the `TRANSCRIPTION_MODEL` environment variable in your `.env` file:
+
 ```
 TRANSCRIPTION_MODEL=large-v1  # Options: tiny, base, small, medium, large-v1, large-v2
 ```
@@ -176,15 +186,16 @@ ClippedAI/
 
 All key settings can now be configured through the `.env` file or within `main.py` for subtitle styling.
 
-
 ## Usage
 
 1. **Add your videos** to the `input/` folder
+
    ```bash
    cp /path/to/your/video.mp4 input/
    ```
 
 2. **Run the script**
+
    ```bash
    python main.py
    ```
@@ -204,9 +215,11 @@ The script uses Montserrat Extra Bold for subtitles (from Google Fonts). To chan
 
 1. **Place your preferred font file** in the `fonts/` directory
 2. **Edit the font name** in `main.py` line 158:
+
    ```python
    SUBTITLE_FONT = "Your-Font-Name"
    ```
+
 3. **Update the ASS style definitions** in the `create_animated_subtitles` function to reference the new font
 
 ### Environment Variables Configuration
@@ -226,8 +239,9 @@ All key settings can now be configured through the `.env` file:
 ### Engagement Scoring
 
 The AI uses multiple factors to select the best clips:
+
 - Word density (45% weight)
-- Engagement words ratio (30% weight) 
+- Engagement words ratio (30% weight)
 - Duration balance (25% weight)
 
 ## Troubleshooting
@@ -235,29 +249,35 @@ The AI uses multiple factors to select the best clips:
 ### Common Issues
 
 **"No module named 'clipsai'"**
+
 ```bash
 pip install clipsai
 ```
 
 **"FFmpeg not found"**
+
 - Ensure FFmpeg is installed and in your system PATH
 - Restart your terminal after installation
 
 **"CUDA out of memory"**
+
 - Use a smaller transcription model
 - Close other GPU-intensive applications
 - Reduce batch size if applicable
 
 **"Font not found"**
+
 - Install the required font system-wide
 - Or change to a system font in the code
 
 **"API key errors"**
+
 - Verify your API keys are correct
 - Check your internet connection
 - Ensure you have sufficient API credits
 
 **"HuggingFace access denied"**
+
 - Make sure you've requested access to all three Pyannote repositories
 - Wait a few minutes after requesting access before running the script
 - Verify your HuggingFace token has "read" permissions
