@@ -299,9 +299,11 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
             f.write(f"Dialogue: 0,{start},{end},Default,,0,0,0,,{line}\n")
     
     final_output = output_path.replace('.mp4', '_with_subtitles.mp4')
+    # Use forward slashes for ffmpeg filter paths on Windows
+    ass_file_escaped = ass_file.replace('\\', '/').replace(':', '\\:')
     ffmpeg_cmd = [
         'ffmpeg', '-i', video_path,
-        '-vf', f"ass={ass_file}",
+        '-vf', f"ass={ass_file_escaped}",
         '-c:a', 'copy',
         '-y',
         final_output
