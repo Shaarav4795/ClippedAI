@@ -8,6 +8,13 @@ import string
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
+import torch
+try:
+    from omegaconf.nodes import AnyNode
+    torch.serialization.add_safe_globals([AnyNode])
+except Exception:
+    pass
+
 import nltk
 from clipsai import Transcriber, ClipFinder, resize, MediaEditor, AudioVideoFile
 from clipsai.clip.clip import Clip

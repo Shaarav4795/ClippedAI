@@ -4,4 +4,3 @@ python-magic
 protobuf>=4.25.3,<5 
 python-dotenv
 customtkinter
-torch==2.5.1
