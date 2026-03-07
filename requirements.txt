@@ -1,6 +1,8 @@
 clipsai
 whisperx@git+https://github.com/m-bain/whisperx.git
 python-magic
-protobuf>=4.25.3,<5 
+protobuf>=4.25.3,<5
 python-dotenv
 customtkinter
+scipy>=1.10.0
+numpy>=1.24.0
