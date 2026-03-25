@@ -290,6 +290,20 @@ pip install clipsai
 4. **Process videos in smaller batches** for large files
 5. **Cache transcriptions** to avoid re-processing if testing
 
+## Publishing Your Clips
+
+Once your clips are generated, publish them to TikTok, YouTube Shorts, and Instagram Reels using [Upload-Post](https://upload-post.com):
+
+```bash
+curl -X POST https://api.upload-post.com/upload \
+  -H "Authorization: Bearer YOUR_API_KEY" \
+  -F "video=@output/clip_001.mp4" \
+  -F "title=Your AI-Generated Title" \
+  -F "platforms=tiktok,youtube,instagram"
+```
+
+Upload-Post provides a single API to publish videos across all major platforms. [Get your API key here](https://upload-post.com).
+
 ## Contributing
 
 1. Fork the repository
