@@ -320,4 +320,10 @@ This project is licensed under the Creative Commons Attribution-NonCommercial 4.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Shaarav4795/ClippedAI&type=date&legend=top-left)](https://www.star-history.com/#Shaarav4795/ClippedAI&type=date&legend=top-left)
+<a href="https://star-history.dera.page/#Shaarav4795/ClippedAI">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=Shaarav4795/ClippedAI&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=Shaarav4795/ClippedAI" />
+   <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=Shaarav4795/ClippedAI" />
+ </picture>
+</a>
